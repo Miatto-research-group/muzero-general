@@ -32,9 +32,180 @@ FREDKIN = np.tensordot(P0, II, axes=0) + np.tensordot(P1, SWAP, axes=0)
 
 QB1GATES = [X, Y, Z, S, H, T, Tdag]
 QB2GATES = [CNOT, SWAP]
+QB12GATES = QB1GATES + QB2GATES
+QB3GATES = [TOFFOLI, FREDKIN]
 
-#Hardcode for 1 qb set
-SIZE = len(list(itertools.product(QB1GATES, range(1))))
+###############################################################################
+########################  RANDOM UNITARY GENERATOR  ###########################
+###############################################################################
+def make_init_unitary(size:int=3) -> np.array:
+    init_unitary = None
+    if size == 1:
+        init_unitary = I
+    elif size == 2:
+        init_unitary = II
+    elif size == 3:
+        init_unitary = III
+    return init_unitary
+
+
+def get_random_gate(gates):
+    l = len(gates)
+    idx = np.random.randint(0,l)
+    return gates[idx]
+
+
+def get_random_qbits(nb:int=1, size:int=3):
+    poss_qb = list(range(size))
+    res_qb = []
+
+    for _ in range(nb):
+        l = len(poss_qb)
+        rd_pick = np.random.randint(l)
+        qb = poss_qb.pop(rd_pick)
+        res_qb.append(qb)
+
+    return tuple(res_qb)
+
+def apply_1q_gate(gate:np.array, qbit:int, curr_unitary):
+    idx = qbit * 2
+    tensored_res = np.tensordot(curr_unitary, gate, axes=(idx, 1))
+    N = curr_unitary.ndim
+    lst = list(range(N))
+    lst.insert(idx, N - 1)
+    res = np.transpose(tensored_res, lst[:-1])
+    return res
+
+
+def apply_2q_gate(gate: np.array, qbitA: int, qbitB: int, curr_unitary):
+    A = 2 * qbitA
+    B = 2 * qbitB
+    tensored_res = np.tensordot(curr_unitary, gate, axes=((A, B), (1, 3)))
+    N = curr_unitary.ndim
+    lst = list(range(N))
+    if A < B:
+        smaller, bigger = A, B
+        first, second = N - 2, N - 1
+    else:
+        smaller, bigger = B, A
+        first, second = N - 1, N - 2
+    lst.insert(smaller, first)
+    lst.insert(bigger, second)
+    res = np.transpose(tensored_res, lst[:-2])
+    return res
+
+def apply_gate_on_qbits(action, curr_unitary):
+    gate, qbits = action
+    resulting_unitary = None
+
+    if len(qbits) == 1:
+        qb = qbits[0]
+        resulting_unitary = apply_1q_gate(gate, qb, curr_unitary)
+    elif len(qbits) == 2:
+        qb_a, qb_b = qbits
+        resulting_unitary = apply_2q_gate(gate, qb_a, qb_b, curr_unitary)
+    else:
+        raise ValueError("apply_gate_on_qbits: wrong number of qubits")
+
+    return resulting_unitary
+
+
+def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
+    """
+    Generates a random unitary for learning, based on the specifications
+    passed as arguments.
+
+    Parameters
+    ----------
+    qbg1 : list of gates
+        The list of one qubit gates to be used for gate generation.
+    qbg2 : list of gates
+        The list of two qubit gates to be used for gate generation.
+    nb_steps : int
+        The number of unitaries to be applied.
+    size : int
+        The number of qubits of the circuit the unitary should be made for.
+
+    Returns
+    ----------
+    A tuple containing in its first element the generated random unitary,
+    on the second element the list of actions (tuples of gate, qubit(s))
+    used to obtain it.
+    Theunitary is a "full" one, of the size of the system.
+    """
+
+    #generate an identity unitary of the size of the system
+    target_unitary = make_init_unitary(size)
+    action_path = []
+
+    gate = None
+    qbits = None
+    for _ in range(nb_steps):
+        dice_roll = np.random.randint(1,3)
+        if dice_roll == 1:
+            gate = get_random_gate(qbg1)
+            qbits = get_random_qbits(1)
+        elif dice_roll == 2:
+            gate = get_random_gate(qbg2)
+            qbits = get_random_qbits(2)
+        else:
+            raise ValueError ("make_random_unitary : Selected a gate too big for the system")
+        action = (gate, qbits)
+        target_unitary = apply_gate_on_qbits(action, target_unitary)
+        action_path.append(action)
+
+    return target_unitary, action_path
+
+
+def make_permutations(nb_qbs=3):
+    """Given a number of qbits of the system, returns all possible coherent
+    permutations, i.e. uses each index only once"""
+    assert(0 < nb_qbs < 4)
+    r = []
+    if nb_qbs == 1:
+        r = list(itertools.product(QB1GATES, range(nb_qbs)))
+    elif nb_qbs == 2:
+        all_2q_permutations = list(itertools.product(range(nb_qbs), range(nb_qbs)))
+        r = list(filter(lambda x: x[0] != x[1], all_2q_permutations))
+    elif nb_qbs == 3:
+        all_3q_permutations = list(itertools.product(range(nb_qbs), range(nb_qbs),
+                                                     range(nb_qbs)))
+        r = list(filter(lambda x: ((x[0] != x[1]) and (x[0] != x[2])
+                                   and (x[1] != x[2])), all_3q_permutations))
+    return r
+
+
+def make_actions(qb1_gates, qb2_gates, system_size=2):
+    assert(0<system_size<3)
+    all_actions = []
+    coherent_1q_permutations = make_permutations(1)
+    coherent_2q_permutations = make_permutations(2)
+    q1_actions = list(itertools.product(qb1_gates, coherent_1q_permutations))
+    q2_actions = list(itertools.product(qb2_gates, coherent_2q_permutations))
+    if system_size == 1:
+        all_actions = q1_actions
+    elif system_size == 2:
+        all_actions = q1_actions + q2_actions
+    r = list(zip([_ for _ in range(len(all_actions))], all_actions))  # [(idx, (gate, qb))]
+    return r
+
+###############################################################################
+###############################  GATE COOKING  ################################
+###############################################################################
+
+QB1ACTIONS = make_actions(QB1GATES, [], 1)
+QB2ACTIONS = make_actions(QB1GATES, QB2GATES, 2)
+
+#COMPLEX 2QB SYSTEM
+nb_wanted_unitaries = 100 #decide how many possible unitaries agent should train on
+nb_steps_per_gate = 2 #how complex one gate should be
+sys_size = 2
+POSSIBLE_TARGET_U = [make_random_unitary(QB1GATES, QB2GATES, nb_steps_per_gate, sys_size)
+                for _ in range(nb_wanted_unitaries)]
+
+#SIZE = len(QB1ACTIONS)
+SIZE = len(QB2ACTIONS)
+
 
 
 ###############################################################################
@@ -47,14 +218,16 @@ class MuZeroConfig:
         self.seed = 42  # Seed for numpy, torch and the game
         self.max_num_gpus = None  # Fix the maximum number of GPUs to use. It's usually faster to use a single GPU (set it to 1) if it has enough memory. None will use every GPUs available
 
-
         #CHANGEABLE!!!
         # (2^nb_qbs, 2^nb_qbs, 2)
-        self.observation_shape = (2, 2, 2)  # Dimensions of the game observation, must be 3D (channel, height, width). For a 1D array, please reshape it to (1, 1, length of array)
+        # Dimensions of the game observation, must be 3D (channel, height, width). For a 1D array, please reshape it to (1, 1, length of array)
+        #self.observation_shape = (2, 2, 2) #1qb
+        self.observation_shape = (4, 4, 2) #2qb
+
 
         #CHANGEABLE!!!
         self.action_space = list(range(SIZE))  # Fixed list of all possible actions. You should only edit the length
-        #print("##### MZ AS",self.action_space)
+        #print("##### MZ ACTIONSPACE",self.action_space)
 
         self.players = list(range(1))  # List of players. You should only edit the length
         self.stacked_observations = 0  # Number of previous observations and previous actions to add to the current observation
@@ -193,11 +366,10 @@ class Game(AbstractGame):
     Game wrapper.
     """
 
-    def __init__(self, seed=None, randomise=True, poss_targets=QB1GATES):
+    def __init__(self, seed=None, randomise=True, poss_targets=POSSIBLE_TARGET_U):
         idx = np.random.randint(0, len(poss_targets)) if randomise else 0 #by default, the first (only?) unitary
-        #print("#######", idx)
-        self.env = GateSynthesis(QB1GATES, q2_gates=[], rwd=100, max_steps=1000,
-                 init_uop=I, target_uop=poss_targets[idx], tol=1e-3)
+        self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=QB2GATES, rwd=100, max_steps=1000,
+                 init_uop=II, target_uop=poss_targets[idx], tol=1e-3)
 
 
     def step(self, action):
@@ -225,7 +397,6 @@ class Game(AbstractGame):
             An array of integers, subset of the action space.
         """
         res = [_ for _ in range(len(self.env.full_action_list))]
-        #print("########### LEGAL A", res)
         return res
 
     def reset(self):
@@ -386,129 +557,3 @@ class GateSynthesis:
 
     def render(self):
         print(self.curr_unitary_op)
-
-
-
-
-
-
-
-###############################################################################
-########################  RANDOM UNITARY GENERATOR  ###########################
-###############################################################################
-def make_init_unitary(size:int=3) -> np.array:
-    init_unitary = None
-    if size == 1:
-        init_unitary = I
-    elif size == 2:
-        init_unitary = II
-    elif size == 3:
-        init_unitary = III
-    return init_unitary
-
-
-def get_random_gate(gates):
-    l = len(gates)
-    idx = np.random.randint(0,l)
-    return gates[idx]
-
-
-def get_random_qbits(nb:int=1, size:int=3):
-    poss_qb = list(range(size))
-    res_qb = []
-
-    for _ in range(nb):
-        l = len(poss_qb)
-        rd_pick = np.random.randint(l)
-        qb = poss_qb.pop(rd_pick)
-        res_qb.append(qb)
-
-    return tuple(res_qb)
-
-def apply_1q_gate(gate:np.array, qbit:int, curr_unitary):
-    idx = qbit * 2
-    tensored_res = np.tensordot(curr_unitary, gate, axes=(idx, 1))
-    N = curr_unitary.ndim
-    lst = list(range(N))
-    lst.insert(idx, N - 1)
-    res = np.transpose(tensored_res, lst[:-1])
-    return res
-
-
-def apply_2q_gate(gate: np.array, qbitA: int, qbitB: int, curr_unitary):
-    A = 2 * qbitA
-    B = 2 * qbitB
-    tensored_res = np.tensordot(curr_unitary, gate, axes=((A, B), (1, 3)))
-    N = curr_unitary.ndim
-    lst = list(range(N))
-    if A < B:
-        smaller, bigger = A, B
-        first, second = N - 2, N - 1
-    else:
-        smaller, bigger = B, A
-        first, second = N - 1, N - 2
-    lst.insert(smaller, first)
-    lst.insert(bigger, second)
-    res = np.transpose(tensored_res, lst[:-2])
-    return res
-
-def apply_gate_on_qbits(action, curr_unitary):
-    gate, qbits = action
-    resulting_unitary = None
-
-    if len(qbits) == 1:
-        qb = qbits[0]
-        resulting_unitary = apply_1q_gate(gate, qb, curr_unitary)
-    elif len(qbits) == 2:
-        qb_a, qb_b = qbits
-        resulting_unitary = apply_2q_gate(gate, qb_a, qb_b, curr_unitary)
-    else:
-        raise ValueError("apply_gate_on_qbits: wrong number of qubits")
-
-    return resulting_unitary
-
-
-def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
-    """
-    Generates a random unitary for learning, based on the specifications
-    passed as arguments.
-
-    Parameters
-    ----------
-    qbg1 : list of gates
-        The list of one qubit gates to be used for gate generation.
-    qbg2 : list of gates
-        The list of two qubit gates to be used for gate generation.
-    nb_steps : int
-        The number of unitaries to be applied.
-    size : int
-        The number of qubits of the circuit the unitary should be made for.
-
-    Returns
-    ----------
-    A tuple containing in its first element the generated random unitary,
-    on the second element the list of actions (tuples of gate, qubit(s))
-    used to obtain it.
-    """
-
-    #generate an identity unitary of the size of the system
-    target_unitary = make_init_unitary(size)
-    action_path = []
-
-    gate = None
-    qbits = None
-    for _ in range(nb_steps):
-        dice_roll = np.random.randint(1,3)
-        if dice_roll == 1:
-            gate = get_random_gate(qbg1)
-            qbits = get_random_qbits(1)
-        elif dice_roll == 2:
-            gate = get_random_gate(qbg2)
-            qbits = get_random_qbits(2)
-        else:
-            raise ValueError ("make_random_unitary : Selected a gate too big for the system")
-        action = (gate, qbits)
-        target_unitary = apply_gate_on_qbits(action, target_unitary)
-        action_path.append(action)
-
-    return target_unitary, action_path
