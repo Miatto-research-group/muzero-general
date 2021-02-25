@@ -157,54 +157,54 @@ def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
     return target_unitary, action_path
 
 
-def make_permutations(nb_qbs=3):
-    """Given a number of qbits of the system, returns all possible coherent
-    permutations, i.e. uses each index only once"""
-    assert(0 < nb_qbs < 4)
+def make_permutations(permutation_size, sys_size:int=2):
+    """Given a number of qbits of the system and the size of the permutation,
+    returns all possible coherent permutations, i.e. uses each index only once"""
+    assert sys_size >= permutation_size, 'Impossible to make permutations of size n with system size <n'
     r = []
-    if nb_qbs == 1:
-        r = list(itertools.product(QB1GATES, range(nb_qbs)))
-    elif nb_qbs == 2:
-        all_2q_permutations = list(itertools.product(range(nb_qbs), range(nb_qbs)))
+    if permutation_size == 1:
+        r = list(itertools.product(range(sys_size)))
+    elif permutation_size == 2:
+        all_2q_permutations = list(itertools.product(range(sys_size), range(sys_size)))
         r = list(filter(lambda x: x[0] != x[1], all_2q_permutations))
-    elif nb_qbs == 3:
-        all_3q_permutations = list(itertools.product(range(nb_qbs), range(nb_qbs),
-                                                     range(nb_qbs)))
-        r = list(filter(lambda x: ((x[0] != x[1]) and (x[0] != x[2])
-                                   and (x[1] != x[2])), all_3q_permutations))
+    else:
+        raise ValueError("make_permutations : illegal permutation size, only 1 and 2 available")
     return r
 
 
-def make_actions(qb1_gates, qb2_gates, system_size=2):
-    assert(0<system_size<3)
+def make_actions_from_permutations(qbp1, qbp2, qb1g, qb2g, sys_size=2):
     all_actions = []
-    coherent_1q_permutations = make_permutations(1)
-    coherent_2q_permutations = make_permutations(2)
-    q1_actions = list(itertools.product(qb1_gates, coherent_1q_permutations))
-    q2_actions = list(itertools.product(qb2_gates, coherent_2q_permutations))
-    if system_size == 1:
+    q1_actions = list(
+        itertools.product(qb1g, qbp1))  # all possible qbs with all possible gates
+    q2_actions = list(
+        itertools.product(qb2g, qbp2))  # all possible pairs with all possible gates
+    if sys_size == 1:
         all_actions = q1_actions
-    elif system_size == 2:
+    elif sys_size >= 1:
         all_actions = q1_actions + q2_actions
+    return  all_actions
+
+
+def make_full_actions_list(qb1_gates, qb2_gates, sys_size=2):
+    assert 0 < sys_size, "System size can not be null"
+    perm1 = make_permutations(1, sys_size) #all qb possibles, ici only one
+    if sys_size>1:
+        perm2 = make_permutations(2, sys_size) # all possible pairs, here 0-1, 1-0 (order matters!)
+    else:
+        perm2 = []
+    all_actions = make_actions_from_permutations(perm1, perm2, qb1_gates, qb2_gates, sys_size)
     r = list(zip([_ for _ in range(len(all_actions))], all_actions))  # [(idx, (gate, qb))]
     return r
+
 
 ###############################################################################
 ###############################  GATE COOKING  ################################
 ###############################################################################
+#Hardcode for 1 qb
+#SIZE = len(make_full_actions_list(QB1GATES, [], 1))
 
-QB1ACTIONS = make_actions(QB1GATES, [], 1)
-QB2ACTIONS = make_actions(QB1GATES, QB2GATES, 2)
-
-#COMPLEX 2QB SYSTEM
-nb_wanted_unitaries = 100 #decide how many possible unitaries agent should train on
-nb_steps_per_gate = 2 #how complex one gate should be
-sys_size = 2
-POSSIBLE_TARGET_U = [make_random_unitary(QB1GATES, QB2GATES, nb_steps_per_gate, sys_size)
-                for _ in range(nb_wanted_unitaries)]
-
-#SIZE = len(QB1ACTIONS)
-SIZE = len(QB2ACTIONS)
+#Hardcode for 2 qb
+SIZE = len(make_full_actions_list(QB1GATES, QB2GATES, 5))
 
 
 
