@@ -198,14 +198,19 @@ def make_full_actions_list(qb1_gates, qb2_gates, sys_size=2):
 
 
 ###############################################################################
-###############################  GATE COOKING  ################################
+######################  GATE COOKING : CHANGEABLE!!! ##########################
 ###############################################################################
 #Hardcode for 1 qb
 #SIZE = len(make_full_actions_list(QB1GATES, [], 1))
 
-#Hardcode for 2 qb
-SIZE = len(make_full_actions_list(QB1GATES, QB2GATES, 5))
-
+#Hardcode for n > 1 qb
+SYSTEM_SIZE = 3
+ALL_ACTIONS = make_full_actions_list(QB1GATES, QB2GATES, SYSTEM_SIZE)
+NB_ACTIONS = len(ALL_ACTIONS) #here 5qb
+nb_wanted_unitaries = 100 #decide how many possible unitaries agent should train on
+nb_steps_per_gate = 2 #how complex one gate should be
+POSSIBLE_TARGET_U = [make_random_unitary(QB1GATES, QB2GATES, nb_steps_per_gate, SYSTEM_SIZE)
+                for _ in range(nb_wanted_unitaries)]
 
 
 ###############################################################################
@@ -222,11 +227,12 @@ class MuZeroConfig:
         # (2^nb_qbs, 2^nb_qbs, 2)
         # Dimensions of the game observation, must be 3D (channel, height, width). For a 1D array, please reshape it to (1, 1, length of array)
         #self.observation_shape = (2, 2, 2) #1qb
-        self.observation_shape = (4, 4, 2) #2qb
+        #self.observation_shape = (4, 4, 2) #2qb
+        self.observation_shape = (2**3, 2**3, 2) #3qb
 
 
         #CHANGEABLE!!!
-        self.action_space = list(range(SIZE))  # Fixed list of all possible actions. You should only edit the length
+        self.action_space = list(range(NB_ACTIONS))  # Fixed list of all possible actions. You should only edit the length
         #print("##### MZ ACTIONSPACE",self.action_space)
 
         self.players = list(range(1))  # List of players. You should only edit the length
@@ -368,8 +374,8 @@ class Game(AbstractGame):
 
     def __init__(self, seed=None, randomise=True, poss_targets=POSSIBLE_TARGET_U):
         idx = np.random.randint(0, len(poss_targets)) if randomise else 0 #by default, the first (only?) unitary
-        self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=QB2GATES, rwd=100, max_steps=1000,
-                 init_uop=II, target_uop=poss_targets[idx], tol=1e-3)
+        self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=QB2GATES, full_action_list=ALL_ACTIONS ,
+                                 rwd=100, max_steps=1000, init_uop=III, target_uop=poss_targets[idx], tol=1e-3)
 
 
     def step(self, action):
@@ -435,7 +441,7 @@ class Game(AbstractGame):
 ##########################  GATE SYNTHESIS GAME ###############################
 ###############################################################################
 class GateSynthesis:
-    def __init__(self, q1_gates=[], q2_gates=[], rwd=1000, max_steps=1000,
+    def __init__(self, q1_gates=[], q2_gates=[], full_action_list=[], rwd=1000, max_steps=1000,
                  init_uop=III, target_uop=III, tol=1e-5):
         self.init_unitary_op = init_uop
         self.curr_unitary_op = self.init_unitary_op
@@ -444,32 +450,12 @@ class GateSynthesis:
         self.final_reward = rwd
         self.q1_gates = q1_gates
         self.q2_gates = q2_gates
-        self.full_action_list = self.make_full_action_list()
+        self.full_action_list = full_action_list
         self.nb_steps = 0
         self.max_steps = max_steps
         self.tol = tol
         self.distance_history = []
         self.player = 1
-
-
-    def make_full_action_list(self):
-        """
-        Uses the one and two qubit gates allowed as well as the total number
-        of qubits of the system to generate all possible combinations of
-        gates on qubits.
-        The result is of the for (action_index, (gate, qubit) )
-        """
-        q1_actions = list(itertools.product(self.q1_gates, range(self.nb_qbits)))
-        if self.nb_qbits > 1:
-            all_2q_permutations = list(itertools.product(range(self.nb_qbits), range(self.nb_qbits)))
-            #keep only those where both qbits are different one from the other
-            coherent_2q_permutations = list(filter(lambda x: x[0] != x[1], all_2q_permutations))
-            q2_actions = list(itertools.product(self.q2_gates, coherent_2q_permutations))
-            all_actions = q1_actions + q2_actions
-        else:
-            all_actions = q1_actions
-        res = list(zip([_ for _ in range(len(all_actions))], all_actions)) #[(idx, (gate, qb))]
-        return res
 
 
     def to_play(self):
@@ -496,7 +482,7 @@ class GateSynthesis:
 
         done = self.have_winner() or (self.nb_steps > self.max_steps)
         if done:
-            print ("######### FINISH!!!")
+            print ("######### FINISH!!!", flush=True)
         reward = self.final_reward if self.have_winner() else 0
 
         return self.get_observation(), reward, done
