@@ -14,23 +14,40 @@ def make_init_unitary(size:int=3) -> np.array:
     return init_unitary
 
 
+
 def get_random_gate(gates):
     l = len(gates)
     idx = np.random.randint(0,l)
     return gates[idx]
 
 
-def get_random_qbits(nb:int=1, size:int=3):
-    poss_qb = list(range(size))
+
+def get_random_qbits(nb_qb:int=1, sys_size:int=3):
+    """
+    When used with single qb does return only 1qb (n,) where 0 < n < sys_size
+    for 2 qb returns (n,m) when both 0 < n,m < sys_size
+
+    Parameters
+    ----------
+    nb_qb
+    sys_size
+
+    Returns
+    -------
+
+    """
+    poss_qb = list(range(sys_size))
+    print(poss_qb)
     res_qb = []
 
-    for _ in range(nb):
-        l = len(poss_qb)
-        rd_pick = np.random.randint(l)
+    for _ in range(nb_qb):
+        rd_pick = np.random.randint(sys_size)
         qb = poss_qb.pop(rd_pick)
         res_qb.append(qb)
 
     return tuple(res_qb)
+
+
 
 def apply_1q_gate(gate:np.array, qbit:int, curr_unitary):
     idx = qbit * 2
@@ -40,6 +57,7 @@ def apply_1q_gate(gate:np.array, qbit:int, curr_unitary):
     lst.insert(idx, N - 1)
     res = np.transpose(tensored_res, lst[:-1])
     return res
+
 
 
 def apply_2q_gate(gate: np.array, qbitA: int, qbitB: int, curr_unitary):
@@ -59,11 +77,13 @@ def apply_2q_gate(gate: np.array, qbitA: int, qbitB: int, curr_unitary):
     res = np.transpose(tensored_res, lst[:-2])
     return res
 
+
+
 def apply_gate_on_qbits(action, curr_unitary):
     gate, qbits = action
     resulting_unitary = None
 
-    if len(qbits) == 1:
+    if len(qbits) == 1: #TODO why is this None???
         qb = qbits[0]
         resulting_unitary = apply_1q_gate(gate, qb, curr_unitary)
     elif len(qbits) == 2:
@@ -75,7 +95,8 @@ def apply_gate_on_qbits(action, curr_unitary):
     return resulting_unitary
 
 
-def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
+
+def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, sys_size:int=3):
     """
     Generates a random unitary for learning, based on the specifications
     passed as arguments.
@@ -100,7 +121,7 @@ def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
     """
 
     #generate an identity unitary of the size of the system
-    target_unitary = make_init_unitary(size)
+    target_unitary = make_init_unitary(sys_size)
     action_path = []
 
     gate = None
@@ -109,10 +130,12 @@ def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, size:int=3):
         dice_roll = np.random.randint(1,3)
         if dice_roll == 1:
             gate = get_random_gate(qbg1)
-            qbits = get_random_qbits(1)
-        elif dice_roll == 2:
+            qbits = get_random_qbits(1, sys_size)
+        elif (sys_size>1) and (dice_roll == 2):
             gate = get_random_gate(qbg2)
-            qbits = get_random_qbits(2)
+            qbits = get_random_qbits(2, sys_size)
+        elif (sys_size==1):
+            pass
         else:
             raise ValueError ("make_random_unitary : Selected a gate too big for the system")
         action = (gate, qbits)
