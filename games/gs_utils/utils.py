@@ -82,7 +82,7 @@ def apply_2q_gate(gate: np.array, qbitA: int, qbitB: int, curr_unitary):
 def apply_gate_on_qbits(action, curr_unitary):
     gate, qbits = action
     resulting_unitary = None
-
+    print("################# apply_gate_on_qbits",qbits)
     if len(qbits) == 1: #TODO why is this None???
         qb = qbits[0]
         resulting_unitary = apply_1q_gate(gate, qb, curr_unitary)
@@ -128,17 +128,21 @@ def make_random_unitary(qbg1=[], qbg2=[], nb_steps:int=3, sys_size:int=3):
     qbits = None
     for _ in range(nb_steps):
         dice_roll = np.random.randint(1,3)
-        if dice_roll == 1:
-            gate = get_random_gate(qbg1)
-            qbits = get_random_qbits(1, sys_size)
-        elif (sys_size>1) and (dice_roll == 2):
-            gate = get_random_gate(qbg2)
-            qbits = get_random_qbits(2, sys_size)
-        elif (sys_size==1):
-            pass
-        else:
-            raise ValueError ("make_random_unitary : Selected a gate too big for the system")
+        print("HEYAAAAAA ", dice_roll)
+        if dice_roll == 1: #should apply a 1qb gate
+                gate = get_random_gate(qbg1)
+                qbits = get_random_qbits(1, sys_size)
+        elif dice_roll == 2: #should apply a 2qb gate
+            if sys_size== 1 : #here can'tapply a 2qb gate so just uses identity to "do" smth
+                gate = get_random_gate(qbg1)
+                qbits = get_random_qbits(1, sys_size)
+            else:
+                gate = get_random_gate(qbg2)
+                qbits = get_random_qbits(1, sys_size)
+        else: #not ok!
+            raise ValueError("make_random_unitary : Selected a gate too big for the system")
         action = (gate, qbits)
+        print("########### make_rd_unit", action)
         target_unitary = apply_gate_on_qbits(action, target_unitary)
         action_path.append(action)
 
