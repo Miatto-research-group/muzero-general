@@ -8,6 +8,7 @@ from collections import deque
 import itertools
 from games.gs_utils.operators import *
 from games.gs_utils.utils import make_random_unitary, make_full_actions_list
+from games.gs_utils.globvars import *
 
 SIZE = len(make_full_actions_list(QB1GATES, [], 1))
 TARGETS = make_random_unitary(QB1GATES, [], nb_steps=5, sys_size=1)
@@ -345,7 +346,8 @@ class GateSynthesis:
 
     def have_winner(self):
         """Returns True if the current unitary is the target one."""
-        return np.allclose(self.curr_unitary_op, self.target_unitary_op, rtol=self.tol)
+        res = np.allclose(self.curr_unitary_op, self.target_unitary_op, rtol=self.tol)
+        return res
 
 
     def render(self):
