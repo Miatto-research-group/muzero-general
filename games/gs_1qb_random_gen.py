@@ -11,8 +11,7 @@ from games.gs_utils.utils import make_random_unitary, make_full_actions_list
 from games.gs_utils.globvars import *
 
 SIZE = len(make_full_actions_list(QB1GATES, [], 1))
-TARGETS = make_random_unitary(QB1GATES, [], nb_steps=5, sys_size=1)
-
+GAMES_CPT = 0 #initialise global variable
 ###############################################################################
 ##################################  MUZERO  ###################################
 ###############################################################################
@@ -160,10 +159,17 @@ class Game(AbstractGame):
     Game wrapper.
     """
 
-    def __init__(self, seed=None, randomise=True, poss_targets=TARGETS):
-        idx = np.random.randint(0, len(poss_targets)) if randomise else 0 #by default, the first (only?) unitary
+    def __init__(self, seed=None):
+        # increase counter
+        global GAMES_CPT
+        GAMES_CPT += 1
+        print("###################"" NB GAMES", GAMES_CPT, flush=True)
+        # decide on the depth of the target gate
+        curr_depth = (GAMES_CPT // 1000) + 1 #increase depth every 1000 games
+        #generate a random unitary of desired depth
+        target, _ = make_random_unitary(QB1GATES, [], nb_steps=curr_depth, sys_size=1)
         self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=[], rwd=100, max_steps=1000,
-                 init_uop=I, target_uop=poss_targets[idx], tol=1e-3)
+                 init_uop=I, target_uop=target, tol=1e-3)
 
 
     def step(self, action):
@@ -290,9 +296,9 @@ class GateSynthesis:
 
         done = self.have_winner() or (self.nb_steps > self.max_steps)
         if done:
-            print ("######### FINISH!!!")
+            print ("######### FINISH!!! IN ONLY ", self.nb_steps, " STEPS", flush=True)
         reward = self.final_reward if self.have_winner() else 0
-
+        self.nb_steps += 1
         return self.get_observation(), reward, done
 
 

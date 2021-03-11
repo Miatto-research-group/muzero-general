@@ -410,6 +410,8 @@ def load_model_menu(muzero, game_name, prev_trained_file):
         checkpoint_path=checkpoint_path, replay_buffer_path=replay_buffer_path,
     )
 
+
+
 ###############################################################################
 ################################### MAIN ######################################
 ###############################################################################
@@ -426,7 +428,6 @@ if __name__ == "__main__":
             if filename.endswith(".py") and filename != "abstract_game.py"
         ]
         # Initialize MuZero
-
         game_name = games[choice]
         muzero = MuZero(game_name)
         if train_opt == 0:
