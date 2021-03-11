@@ -9,6 +9,7 @@ import itertools
 from games.gs_utils.operators import *
 from games.gs_utils.utils import make_random_unitary, make_full_actions_list
 from games.gs_utils.globvars import *
+import logging
 
 SIZE = len(make_full_actions_list(QB1GATES, [], 1))
 GAMES_CPT = 0 #initialise global variable
@@ -16,6 +17,7 @@ GAMES_CPT = 0 #initialise global variable
 ##################################  MUZERO  ###################################
 ###############################################################################
 class MuZeroConfig:
+
     def __init__(self, nb_actions=SIZE, observation_shape=(2, 2, 2), seed:int=42, nb_players:int=1, max_num_gpus=None):
         """
         More information is available here: https://github.com/werner-duvaud/muzero-general/wiki/Hyperparameter-Optimization
@@ -27,7 +29,9 @@ class MuZeroConfig:
             (4, 4, 2)  for 2qb system
         seed :
         """
-
+        #log_filename = "logs/output.log"
+        #os.makedirs(os.path.dirname(log_filename), exist_ok=True)
+        #file_handler = logging.FileHandler(log_filename, mode="w", delay=False, encoding='utf-8')
         self.seed = seed  # Seed for numpy, torch and the game
         self.max_num_gpus = max_num_gpus  # Fix the maximum number of GPUs to use. It's usually faster to use a single GPU (set it to 1) if it has enough memory. None will use every GPUs available
         self.observation_shape = observation_shape
@@ -160,16 +164,8 @@ class Game(AbstractGame):
     """
 
     def __init__(self, seed=None):
-        # increase counter
-        global GAMES_CPT
-        GAMES_CPT += 1
-        print("###################"" NB GAMES", GAMES_CPT, flush=True)
-        # decide on the depth of the target gate
-        curr_depth = (GAMES_CPT // 1000) + 1 #increase depth every 1000 games
-        #generate a random unitary of desired depth
-        target, _ = make_random_unitary(QB1GATES, [], nb_steps=curr_depth, sys_size=1)
         self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=[], rwd=100, max_steps=1000,
-                 init_uop=I, target_uop=target, tol=1e-3)
+                 init_uop=I, tol=1e-3)
 
 
     def step(self, action):
@@ -235,11 +231,12 @@ class Game(AbstractGame):
 ##########################  GATE SYNTHESIS GAME ###############################
 ###############################################################################
 class GateSynthesis:
+
     def __init__(self, q1_gates=[], q2_gates=[], rwd=1000, max_steps=1000,
-                 init_uop=III, target_uop=III, tol=1e-5):
+                 init_uop=I, tol=1e-5):
         self.init_unitary_op = init_uop
         self.curr_unitary_op = self.init_unitary_op
-        self.target_unitary_op = target_uop #the unitary one should generate
+        self.ini_rd_gate() #action here
         self.nb_qbits = np.int(len(self.init_unitary_op.shape) / 2)
         self.final_reward = rwd
         self.q1_gates = q1_gates
@@ -250,6 +247,17 @@ class GateSynthesis:
         self.tol = tol
         self.distance_history = []
         self.player = 1
+
+    def ini_rd_gate(self):
+        # increase counter
+        global GAMES_CPT
+        GAMES_CPT += 1
+        #print("###################"" NB GAMES", GAMES_CPT, flush=True)
+        # decide on the depth of the target gate
+        curr_depth = (GAMES_CPT // 1000) + 1  # increase depth every 1000 games
+        # generate a random unitary of desired depth
+        target, _ = make_random_unitary(QB1GATES, [], nb_steps=curr_depth, sys_size=1)
+        self.target_unitary_op = target  # the unitary one should generate
 
 
     def make_full_action_list(self):
@@ -280,11 +288,16 @@ class GateSynthesis:
         self.curr_unitary_op = self.init_unitary_op
         self.nb_steps = 0
         self.distance_history = []
+        self.ini_rd_gate()
         return self.get_observation()
 
 
     def step(self, action_idx):
         (_ , (gate, qbit)) = self.full_action_list[action_idx]
+        #logging.debug('This message should go to the log file')
+        #logging.info('So should this')
+        #logging.warning('And this, too')
+        #logging.error('And non-ASCII stuff, too, like Øresund and Malmö')
 
         if (gate.shape == (2, 2, 2, 2)):  # 2qb
             (qbA, qbB) = qbit
@@ -295,8 +308,8 @@ class GateSynthesis:
             raise ValueError('Unsupported gate dimension')
 
         done = self.have_winner() or (self.nb_steps > self.max_steps)
-        if done:
-            print ("######### FINISH!!! IN ONLY ", self.nb_steps, " STEPS", flush=True)
+        #if done:
+            #print ("######### FINISH!!! IN ONLY ", self.nb_steps, " STEPS", flush=True)
         reward = self.final_reward if self.have_winner() else 0
         self.nb_steps += 1
         return self.get_observation(), reward, done
