@@ -1,3 +1,13 @@
+### Launch
+use as
+`python muzero.py game_number training_opt prev_model_filepath`
+where
+`game_number` is an integer corresponding to the index of the desired game in the games file in alphanumerical order
+`training_opt` is 0 if training should starts from scratch and 1 if some prev_ous training data should be loaded
+`prev_model_filepath` is the filepath of the previously trained instance where the checpoint ond pickle file are available
+
+
+
 ![supported platforms](https://img.shields.io/badge/platform-Linux%20%7C%20Mac%20%7C%20Windows%20(soon)-929292)
 ![supported python versions](https://img.shields.io/badge/python-%3E%3D%203.6-306998)
 ![dependencies status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
