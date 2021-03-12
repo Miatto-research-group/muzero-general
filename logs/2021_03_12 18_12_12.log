@@ -1,0 +1,2384 @@
+INF MainProcess (2021-03-12 18:12:12,436) Starting game number : 1
+DEB MainProcess (2021-03-12 18:12:12,436) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,437) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:12,448) Starting game number : 2
+DEB MainProcess (2021-03-12 18:12:12,448) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,448) New target same as previous one? True
+INF MainProcess (2021-03-12 18:12:12,455) Starting game number : 1
+DEB MainProcess (2021-03-12 18:12:12,455) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,455) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:12,466) Starting game number : 2
+DEB MainProcess (2021-03-12 18:12:12,466) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,466) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:12,557) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:12:12,562) Starting game number : 3
+DEB MainProcess (2021-03-12 18:12:12,562) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,562) New target same as previous one? True
+INF MainProcess (2021-03-12 18:12:12,671) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:12:12,676) Starting game number : 4
+DEB MainProcess (2021-03-12 18:12:12,676) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:12,676) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:19,258) Starting game number : 3
+DEB MainProcess (2021-03-12 18:12:19,258) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:19,258) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:20,055) Starting game number : 5
+DEB MainProcess (2021-03-12 18:12:20,055) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:20,056) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:27,922) Starting game number : 4
+DEB MainProcess (2021-03-12 18:12:27,922) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:27,922) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:28,690) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:12:28,698) Starting game number : 5
+DEB MainProcess (2021-03-12 18:12:28,698) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:28,698) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:29,208) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:12:29,217) Starting game number : 6
+DEB MainProcess (2021-03-12 18:12:29,217) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:29,218) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:29,339) Starting game number : 6
+DEB MainProcess (2021-03-12 18:12:29,339) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:29,339) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:29,801) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:12:29,809) Starting game number : 7
+DEB MainProcess (2021-03-12 18:12:29,809) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:29,809) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:30,040) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:12:30,047) Starting game number : 7
+DEB MainProcess (2021-03-12 18:12:30,047) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:30,048) New target same as previous one? True
+INF MainProcess (2021-03-12 18:12:30,713) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:12:30,720) Starting game number : 8
+DEB MainProcess (2021-03-12 18:12:30,720) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:30,720) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:38,611) Starting game number : 8
+DEB MainProcess (2021-03-12 18:12:38,611) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:38,611) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:39,234) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:12:39,241) Starting game number : 9
+DEB MainProcess (2021-03-12 18:12:39,241) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:39,242) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:39,497) Starting game number : 9
+DEB MainProcess (2021-03-12 18:12:39,497) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:39,498) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:39,843) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:12:39,849) Starting game number : 10
+DEB MainProcess (2021-03-12 18:12:39,849) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:39,849) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:48,376) Starting game number : 10
+DEB MainProcess (2021-03-12 18:12:48,377) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:48,377) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:48,548) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:12:48,556) Starting game number : 11
+DEB MainProcess (2021-03-12 18:12:48,556) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:48,557) New target same as previous one? True
+INF MainProcess (2021-03-12 18:12:48,789) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:12:48,805) Starting game number : 12
+DEB MainProcess (2021-03-12 18:12:48,805) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:48,805) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:49,036) Starting game number : 11
+DEB MainProcess (2021-03-12 18:12:49,036) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:49,036) New target same as previous one? True
+INF MainProcess (2021-03-12 18:12:49,296) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:12:49,306) Starting game number : 13
+DEB MainProcess (2021-03-12 18:12:49,306) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:49,306) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:59,091) Starting game number : 14
+DEB MainProcess (2021-03-12 18:12:59,091) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:59,091) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:59,233) Starting game number : 12
+DEB MainProcess (2021-03-12 18:12:59,234) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:59,234) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:59,267) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:12:59,275) Starting game number : 15
+DEB MainProcess (2021-03-12 18:12:59,275) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:59,275) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:59,337) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:12:59,343) Starting game number : 13
+DEB MainProcess (2021-03-12 18:12:59,343) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:59,344) New target same as previous one? False
+INF MainProcess (2021-03-12 18:12:59,754) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:12:59,761) Starting game number : 14
+DEB MainProcess (2021-03-12 18:12:59,761) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:12:59,762) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:00,411) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:13:00,418) Starting game number : 15
+DEB MainProcess (2021-03-12 18:13:00,418) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:00,419) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:00,633) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:13:00,640) Starting game number : 16
+DEB MainProcess (2021-03-12 18:13:00,640) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:00,641) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:08,929) Starting game number : 16
+DEB MainProcess (2021-03-12 18:13:08,930) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:08,930) New target same as previous one? True
+INF MainProcess (2021-03-12 18:13:10,420) Starting game number : 17
+DEB MainProcess (2021-03-12 18:13:10,420) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:10,421) New target same as previous one? True
+INF MainProcess (2021-03-12 18:13:17,777) Starting game number : 17
+DEB MainProcess (2021-03-12 18:13:17,778) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:17,778) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:17,944) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:13:17,949) Starting game number : 18
+DEB MainProcess (2021-03-12 18:13:17,950) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:17,950) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:19,514) Starting game number : 18
+DEB MainProcess (2021-03-12 18:13:19,514) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:19,514) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:19,600) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:13:19,607) Starting game number : 19
+DEB MainProcess (2021-03-12 18:13:19,607) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:19,608) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:19,835) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:13:19,839) Starting game number : 20
+DEB MainProcess (2021-03-12 18:13:19,840) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:19,840) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:27,542) Starting game number : 19
+DEB MainProcess (2021-03-12 18:13:27,543) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:27,543) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:27,773) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:13:27,781) Starting game number : 20
+DEB MainProcess (2021-03-12 18:13:27,781) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:27,781) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:29,741) Starting game number : 21
+DEB MainProcess (2021-03-12 18:13:29,741) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:29,742) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:30,140) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:13:30,145) Starting game number : 22
+DEB MainProcess (2021-03-12 18:13:30,145) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:30,146) New target same as previous one? True
+INF MainProcess (2021-03-12 18:13:30,614) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:13:30,621) Starting game number : 23
+DEB MainProcess (2021-03-12 18:13:30,622) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:30,622) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:31,154) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:13:31,159) Starting game number : 24
+DEB MainProcess (2021-03-12 18:13:31,159) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:31,160) New target same as previous one? True
+INF MainProcess (2021-03-12 18:13:31,706) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:13:31,712) Starting game number : 25
+DEB MainProcess (2021-03-12 18:13:31,712) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:31,713) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:36,905) Starting game number : 21
+DEB MainProcess (2021-03-12 18:13:36,905) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:36,906) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:36,991) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:13:37,001) Starting game number : 22
+DEB MainProcess (2021-03-12 18:13:37,001) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:37,001) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:37,314) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:13:37,320) Starting game number : 23
+DEB MainProcess (2021-03-12 18:13:37,320) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:37,320) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:40,840) Starting game number : 26
+DEB MainProcess (2021-03-12 18:13:40,840) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:40,840) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:46,542) Starting game number : 24
+DEB MainProcess (2021-03-12 18:13:46,542) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:46,542) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:46,758) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:13:46,767) Starting game number : 25
+DEB MainProcess (2021-03-12 18:13:46,767) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:46,768) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:46,854) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:13:46,863) Starting game number : 26
+DEB MainProcess (2021-03-12 18:13:46,863) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:46,863) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:50,666) Starting game number : 27
+DEB MainProcess (2021-03-12 18:13:50,667) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:50,667) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:50,767) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:13:50,779) Starting game number : 28
+DEB MainProcess (2021-03-12 18:13:50,779) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:50,779) New target same as previous one? False
+INF MainProcess (2021-03-12 18:13:56,582) Starting game number : 27
+DEB MainProcess (2021-03-12 18:13:56,582) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:13:56,582) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:00,263) Starting game number : 29
+DEB MainProcess (2021-03-12 18:14:00,263) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:00,263) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:00,355) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:00,362) Starting game number : 30
+DEB MainProcess (2021-03-12 18:14:00,362) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:00,362) New target same as previous one? True
+INF MainProcess (2021-03-12 18:14:00,449) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:00,456) Starting game number : 31
+DEB MainProcess (2021-03-12 18:14:00,456) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:00,456) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:00,951) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:00,956) Starting game number : 32
+DEB MainProcess (2021-03-12 18:14:00,956) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:00,957) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:01,112) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:01,118) Starting game number : 33
+DEB MainProcess (2021-03-12 18:14:01,118) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:01,119) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:01,653) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:01,659) Starting game number : 34
+DEB MainProcess (2021-03-12 18:14:01,659) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:01,660) New target same as previous one? True
+INF MainProcess (2021-03-12 18:14:02,104) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:02,110) Starting game number : 35
+DEB MainProcess (2021-03-12 18:14:02,111) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:02,111) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:02,254) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:02,259) Starting game number : 36
+DEB MainProcess (2021-03-12 18:14:02,259) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:02,260) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:05,842) Starting game number : 28
+DEB MainProcess (2021-03-12 18:14:05,843) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:05,843) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:06,056) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:06,063) Starting game number : 29
+DEB MainProcess (2021-03-12 18:14:06,063) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:06,064) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:06,195) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:06,204) Starting game number : 30
+DEB MainProcess (2021-03-12 18:14:06,205) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:06,205) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:06,747) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:06,754) Starting game number : 31
+DEB MainProcess (2021-03-12 18:14:06,754) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:06,754) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:06,909) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:06,914) Starting game number : 32
+DEB MainProcess (2021-03-12 18:14:06,914) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:06,914) New target same as previous one? True
+INF MainProcess (2021-03-12 18:14:07,078) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:07,085) Starting game number : 33
+DEB MainProcess (2021-03-12 18:14:07,086) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:07,086) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:11,864) Starting game number : 37
+DEB MainProcess (2021-03-12 18:14:11,864) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:11,864) New target same as previous one? True
+INF MainProcess (2021-03-12 18:14:16,663) Starting game number : 34
+DEB MainProcess (2021-03-12 18:14:16,663) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:16,663) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:21,591) Starting game number : 38
+DEB MainProcess (2021-03-12 18:14:21,591) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:21,592) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:26,701) Starting game number : 35
+DEB MainProcess (2021-03-12 18:14:26,701) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:26,701) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:32,768) Starting game number : 39
+DEB MainProcess (2021-03-12 18:14:32,768) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:32,768) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:33,294) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:14:33,305) Starting game number : 40
+DEB MainProcess (2021-03-12 18:14:33,305) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:33,306) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:37,519) Starting game number : 36
+DEB MainProcess (2021-03-12 18:14:37,519) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:37,519) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:38,009) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:38,015) Starting game number : 37
+DEB MainProcess (2021-03-12 18:14:38,015) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:38,016) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:38,090) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:38,097) Starting game number : 38
+DEB MainProcess (2021-03-12 18:14:38,097) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:38,098) New target same as previous one? True
+INF MainProcess (2021-03-12 18:14:38,562) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:14:38,570) Starting game number : 39
+DEB MainProcess (2021-03-12 18:14:38,571) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:38,571) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:38,679) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:38,687) Starting game number : 40
+DEB MainProcess (2021-03-12 18:14:38,687) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:38,687) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:43,089) Starting game number : 41
+DEB MainProcess (2021-03-12 18:14:43,090) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:43,090) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:48,408) Starting game number : 41
+DEB MainProcess (2021-03-12 18:14:48,408) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:48,408) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:48,550) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:48,556) Starting game number : 42
+DEB MainProcess (2021-03-12 18:14:48,556) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:48,556) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:49,223) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:14:49,231) Starting game number : 43
+DEB MainProcess (2021-03-12 18:14:49,231) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:49,231) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:49,450) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:49,463) Starting game number : 44
+DEB MainProcess (2021-03-12 18:14:49,463) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:49,463) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:49,880) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:14:49,888) Starting game number : 45
+DEB MainProcess (2021-03-12 18:14:49,888) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:49,888) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:49,968) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:49,974) Starting game number : 46
+DEB MainProcess (2021-03-12 18:14:49,974) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:49,974) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:50,137) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:50,143) Starting game number : 47
+DEB MainProcess (2021-03-12 18:14:50,143) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:50,143) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:52,503) Won! Found target in 27 steps
+INF MainProcess (2021-03-12 18:14:52,510) Starting game number : 48
+DEB MainProcess (2021-03-12 18:14:52,510) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:52,511) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:52,584) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:14:52,590) Starting game number : 49
+DEB MainProcess (2021-03-12 18:14:52,590) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:52,591) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:52,784) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:14:52,792) Starting game number : 50
+DEB MainProcess (2021-03-12 18:14:52,792) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:52,792) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:52,816) Starting game number : 42
+DEB MainProcess (2021-03-12 18:14:52,816) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:52,816) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:53,290) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:53,297) Starting game number : 51
+DEB MainProcess (2021-03-12 18:14:53,297) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:53,298) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:53,350) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:14:53,358) Starting game number : 43
+DEB MainProcess (2021-03-12 18:14:53,358) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:53,359) New target same as previous one? False
+INF MainProcess (2021-03-12 18:14:53,638) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:14:53,644) Starting game number : 52
+DEB MainProcess (2021-03-12 18:14:53,644) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:14:53,644) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:02,649) Starting game number : 53
+DEB MainProcess (2021-03-12 18:15:02,649) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:02,649) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:03,244) Starting game number : 44
+DEB MainProcess (2021-03-12 18:15:03,244) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:03,244) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:03,272) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:15:03,280) Starting game number : 54
+DEB MainProcess (2021-03-12 18:15:03,280) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:03,281) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:03,683) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:15:03,690) Starting game number : 45
+DEB MainProcess (2021-03-12 18:15:03,690) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:03,690) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:03,715) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:15:03,724) Starting game number : 55
+DEB MainProcess (2021-03-12 18:15:03,724) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:03,724) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:10,933) Won! Found target in 79 steps
+INF MainProcess (2021-03-12 18:15:10,941) Starting game number : 56
+DEB MainProcess (2021-03-12 18:15:10,941) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:10,942) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:11,466) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:15:11,473) Starting game number : 57
+DEB MainProcess (2021-03-12 18:15:11,473) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:11,473) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:12,162) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:15:12,169) Starting game number : 58
+DEB MainProcess (2021-03-12 18:15:12,169) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:12,169) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:12,917) Starting game number : 46
+DEB MainProcess (2021-03-12 18:15:12,917) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:12,917) New target same as previous one? True
+INF MainProcess (2021-03-12 18:15:20,874) Starting game number : 59
+DEB MainProcess (2021-03-12 18:15:20,874) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:20,875) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:22,047) Starting game number : 47
+DEB MainProcess (2021-03-12 18:15:22,048) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:22,048) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:22,642) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:15:22,650) Starting game number : 48
+DEB MainProcess (2021-03-12 18:15:22,650) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:22,650) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:23,006) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:15:23,013) Starting game number : 49
+DEB MainProcess (2021-03-12 18:15:23,013) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:23,013) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:23,159) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:15:23,164) Starting game number : 50
+DEB MainProcess (2021-03-12 18:15:23,164) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:23,165) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:23,373) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:15:23,379) Starting game number : 51
+DEB MainProcess (2021-03-12 18:15:23,379) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:23,379) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:23,944) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:15:23,949) Starting game number : 52
+DEB MainProcess (2021-03-12 18:15:23,949) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:23,949) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:30,086) Starting game number : 60
+DEB MainProcess (2021-03-12 18:15:30,087) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:30,089) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:30,677) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:15:30,685) Starting game number : 61
+DEB MainProcess (2021-03-12 18:15:30,685) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:30,685) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:32,930) Starting game number : 53
+DEB MainProcess (2021-03-12 18:15:32,930) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:32,930) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:40,187) Starting game number : 62
+DEB MainProcess (2021-03-12 18:15:40,187) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:40,188) New target same as previous one? True
+INF MainProcess (2021-03-12 18:15:42,689) Starting game number : 54
+DEB MainProcess (2021-03-12 18:15:42,690) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:42,690) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:48,553) Starting game number : 63
+DEB MainProcess (2021-03-12 18:15:48,553) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:48,553) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:48,627) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:15:48,633) Starting game number : 64
+DEB MainProcess (2021-03-12 18:15:48,633) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:48,633) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:48,819) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:15:48,825) Starting game number : 65
+DEB MainProcess (2021-03-12 18:15:48,825) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:48,826) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:51,442) Starting game number : 55
+DEB MainProcess (2021-03-12 18:15:51,442) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:51,442) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:52,146) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:15:52,153) Starting game number : 56
+DEB MainProcess (2021-03-12 18:15:52,153) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:52,153) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:52,414) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:15:52,422) Starting game number : 57
+DEB MainProcess (2021-03-12 18:15:52,422) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:52,422) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:57,492) Starting game number : 66
+DEB MainProcess (2021-03-12 18:15:57,493) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:57,493) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:58,053) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:15:58,062) Starting game number : 67
+DEB MainProcess (2021-03-12 18:15:58,062) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:58,063) New target same as previous one? False
+INF MainProcess (2021-03-12 18:15:58,289) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:15:58,297) Starting game number : 68
+DEB MainProcess (2021-03-12 18:15:58,298) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:15:58,298) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:01,428) Starting game number : 58
+DEB MainProcess (2021-03-12 18:16:01,428) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:01,428) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:01,507) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:16:01,513) Starting game number : 59
+DEB MainProcess (2021-03-12 18:16:01,514) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:01,514) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:02,052) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:02,059) Starting game number : 60
+DEB MainProcess (2021-03-12 18:16:02,059) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:02,060) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:07,407) Starting game number : 69
+DEB MainProcess (2021-03-12 18:16:07,407) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:07,407) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:07,562) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:07,570) Starting game number : 70
+DEB MainProcess (2021-03-12 18:16:07,570) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:07,571) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:08,583) Won! Found target in 12 steps
+INF MainProcess (2021-03-12 18:16:08,589) Starting game number : 71
+DEB MainProcess (2021-03-12 18:16:08,589) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:08,590) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:08,919) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:16:08,926) Starting game number : 72
+DEB MainProcess (2021-03-12 18:16:08,927) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:08,927) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:11,712) Starting game number : 61
+DEB MainProcess (2021-03-12 18:16:11,712) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:11,713) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:18,059) Starting game number : 73
+DEB MainProcess (2021-03-12 18:16:18,059) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:18,060) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:18,593) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:16:18,601) Starting game number : 74
+DEB MainProcess (2021-03-12 18:16:18,601) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:18,602) New target same as previous one? True
+INF MainProcess (2021-03-12 18:16:19,226) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:16:19,236) Starting game number : 75
+DEB MainProcess (2021-03-12 18:16:19,237) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:19,237) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:19,469) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:19,476) Starting game number : 76
+DEB MainProcess (2021-03-12 18:16:19,476) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:19,476) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:20,175) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:16:20,184) Starting game number : 77
+DEB MainProcess (2021-03-12 18:16:20,184) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:20,184) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:20,354) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:20,364) Starting game number : 78
+DEB MainProcess (2021-03-12 18:16:20,364) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:20,364) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:20,442) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:16:20,448) Starting game number : 79
+DEB MainProcess (2021-03-12 18:16:20,449) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:20,449) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:20,795) Starting game number : 62
+DEB MainProcess (2021-03-12 18:16:20,795) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:20,795) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:20,972) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:20,979) Starting game number : 63
+DEB MainProcess (2021-03-12 18:16:20,979) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:20,979) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:21,354) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:16:21,360) Starting game number : 64
+DEB MainProcess (2021-03-12 18:16:21,360) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:21,360) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:23,963) Won! Found target in 40 steps
+INF MainProcess (2021-03-12 18:16:23,970) Starting game number : 80
+DEB MainProcess (2021-03-12 18:16:23,970) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:23,970) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:24,475) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:24,481) Starting game number : 81
+DEB MainProcess (2021-03-12 18:16:24,481) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:24,482) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:25,177) Won! Found target in 9 steps
+INF MainProcess (2021-03-12 18:16:25,183) Starting game number : 82
+DEB MainProcess (2021-03-12 18:16:25,183) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:25,183) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:30,561) Starting game number : 65
+DEB MainProcess (2021-03-12 18:16:30,561) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:30,562) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:30,907) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:16:30,914) Starting game number : 66
+DEB MainProcess (2021-03-12 18:16:30,914) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:30,915) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:33,949) Starting game number : 83
+DEB MainProcess (2021-03-12 18:16:33,949) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:33,949) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:40,615) Starting game number : 67
+DEB MainProcess (2021-03-12 18:16:40,615) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:40,615) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:41,316) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:41,324) Starting game number : 68
+DEB MainProcess (2021-03-12 18:16:41,324) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:41,324) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:42,142) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:16:42,150) Starting game number : 69
+DEB MainProcess (2021-03-12 18:16:42,150) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:42,150) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:42,794) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:42,807) Starting game number : 70
+DEB MainProcess (2021-03-12 18:16:42,807) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:42,807) New target same as previous one? True
+INF MainProcess (2021-03-12 18:16:43,548) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:43,559) Starting game number : 71
+DEB MainProcess (2021-03-12 18:16:43,559) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:43,559) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:43,695) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:16:43,705) Starting game number : 72
+DEB MainProcess (2021-03-12 18:16:43,705) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:43,705) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:44,321) Starting game number : 84
+DEB MainProcess (2021-03-12 18:16:44,321) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:44,322) New target same as previous one? True
+INF MainProcess (2021-03-12 18:16:44,502) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:44,508) Starting game number : 73
+DEB MainProcess (2021-03-12 18:16:44,508) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:44,508) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,068) Starting game number : 85
+DEB MainProcess (2021-03-12 18:16:56,068) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,068) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,099) Starting game number : 74
+DEB MainProcess (2021-03-12 18:16:56,099) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,099) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,220) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:56,226) Starting game number : 86
+DEB MainProcess (2021-03-12 18:16:56,227) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,227) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,267) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:16:56,274) Starting game number : 75
+DEB MainProcess (2021-03-12 18:16:56,274) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,275) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,365) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:16:56,371) Starting game number : 76
+DEB MainProcess (2021-03-12 18:16:56,371) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,371) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:56,816) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:16:56,823) Starting game number : 87
+DEB MainProcess (2021-03-12 18:16:56,823) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:56,823) New target same as previous one? False
+INF MainProcess (2021-03-12 18:16:57,483) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:16:57,492) Starting game number : 88
+DEB MainProcess (2021-03-12 18:16:57,492) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:16:57,493) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:05,714) Starting game number : 77
+DEB MainProcess (2021-03-12 18:17:05,715) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:05,715) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:06,778) Starting game number : 89
+DEB MainProcess (2021-03-12 18:17:06,778) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:06,779) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:07,128) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:17:07,134) Starting game number : 90
+DEB MainProcess (2021-03-12 18:17:07,134) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:07,134) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:07,210) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:17:07,217) Starting game number : 91
+DEB MainProcess (2021-03-12 18:17:07,217) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:07,217) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:15,709) Starting game number : 78
+DEB MainProcess (2021-03-12 18:17:15,709) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:15,710) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:16,559) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:17:16,566) Starting game number : 79
+DEB MainProcess (2021-03-12 18:17:16,566) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:16,567) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:16,696) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:17:16,705) Starting game number : 80
+DEB MainProcess (2021-03-12 18:17:16,705) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:16,706) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:17,422) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:17:17,431) Starting game number : 81
+DEB MainProcess (2021-03-12 18:17:17,431) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:17,431) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:17,965) Starting game number : 92
+DEB MainProcess (2021-03-12 18:17:17,965) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:17,966) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:28,018) Starting game number : 82
+DEB MainProcess (2021-03-12 18:17:28,018) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:28,018) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:28,375) Starting game number : 93
+DEB MainProcess (2021-03-12 18:17:28,375) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:28,375) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:28,391) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:17:28,399) Starting game number : 83
+DEB MainProcess (2021-03-12 18:17:28,399) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:28,399) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:37,461) Starting game number : 94
+DEB MainProcess (2021-03-12 18:17:37,461) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:37,462) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:37,870) Starting game number : 84
+DEB MainProcess (2021-03-12 18:17:37,870) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:37,870) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:38,207) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:17:38,213) Starting game number : 85
+DEB MainProcess (2021-03-12 18:17:38,213) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:38,213) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:46,550) Starting game number : 95
+DEB MainProcess (2021-03-12 18:17:46,550) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:46,550) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:47,327) Starting game number : 86
+DEB MainProcess (2021-03-12 18:17:47,327) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:47,327) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:47,451) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:17:47,458) Starting game number : 87
+DEB MainProcess (2021-03-12 18:17:47,458) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:47,458) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:48,271) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:17:48,278) Starting game number : 88
+DEB MainProcess (2021-03-12 18:17:48,278) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:48,279) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:48,496) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:17:48,503) Starting game number : 89
+DEB MainProcess (2021-03-12 18:17:48,503) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:48,504) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:48,920) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:17:48,930) Starting game number : 90
+DEB MainProcess (2021-03-12 18:17:48,930) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:48,930) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:49,461) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:17:49,468) Starting game number : 91
+DEB MainProcess (2021-03-12 18:17:49,468) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:49,469) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:49,570) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:17:49,576) Starting game number : 92
+DEB MainProcess (2021-03-12 18:17:49,577) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:49,577) New target same as previous one? True
+INF MainProcess (2021-03-12 18:17:49,657) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:17:49,663) Starting game number : 93
+DEB MainProcess (2021-03-12 18:17:49,663) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:49,664) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:49,857) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:17:49,867) Starting game number : 94
+DEB MainProcess (2021-03-12 18:17:49,867) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:49,868) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:50,258) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:17:50,273) Starting game number : 95
+DEB MainProcess (2021-03-12 18:17:50,273) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:50,274) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:55,925) Starting game number : 96
+DEB MainProcess (2021-03-12 18:17:55,925) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:55,925) New target same as previous one? False
+INF MainProcess (2021-03-12 18:17:59,047) Starting game number : 96
+DEB MainProcess (2021-03-12 18:17:59,047) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:17:59,048) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:04,395) Starting game number : 97
+DEB MainProcess (2021-03-12 18:18:04,395) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:04,395) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:08,416) Starting game number : 97
+DEB MainProcess (2021-03-12 18:18:08,417) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:08,417) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:13,752) Starting game number : 98
+DEB MainProcess (2021-03-12 18:18:13,752) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:13,753) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:17,658) Starting game number : 98
+DEB MainProcess (2021-03-12 18:18:17,658) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:17,659) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:22,388) Starting game number : 99
+DEB MainProcess (2021-03-12 18:18:22,388) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:22,389) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:22,741) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:18:22,747) Starting game number : 100
+DEB MainProcess (2021-03-12 18:18:22,747) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:22,747) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:25,163) Won! Found target in 28 steps
+INF MainProcess (2021-03-12 18:18:25,171) Starting game number : 101
+DEB MainProcess (2021-03-12 18:18:25,171) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:25,172) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:26,752) Starting game number : 99
+DEB MainProcess (2021-03-12 18:18:26,752) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:26,752) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:34,132) Starting game number : 102
+DEB MainProcess (2021-03-12 18:18:34,133) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:34,133) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:34,310) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:18:34,315) Starting game number : 103
+DEB MainProcess (2021-03-12 18:18:34,316) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:34,316) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:34,953) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:18:34,960) Starting game number : 104
+DEB MainProcess (2021-03-12 18:18:34,960) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:34,960) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:35,467) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:18:35,473) Starting game number : 105
+DEB MainProcess (2021-03-12 18:18:35,473) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:35,474) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:35,837) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:18:35,844) Starting game number : 106
+DEB MainProcess (2021-03-12 18:18:35,844) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:35,844) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:35,845) Starting game number : 100
+DEB MainProcess (2021-03-12 18:18:35,845) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:35,845) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:36,007) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:18:36,014) Starting game number : 107
+DEB MainProcess (2021-03-12 18:18:36,014) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:36,014) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:45,325) Starting game number : 108
+DEB MainProcess (2021-03-12 18:18:45,325) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:45,325) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:45,367) Starting game number : 101
+DEB MainProcess (2021-03-12 18:18:45,367) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:45,367) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:54,620) Starting game number : 109
+DEB MainProcess (2021-03-12 18:18:54,620) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:54,621) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:54,699) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:18:54,707) Starting game number : 110
+DEB MainProcess (2021-03-12 18:18:54,707) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:54,708) New target same as previous one? True
+INF MainProcess (2021-03-12 18:18:54,798) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:18:54,805) Starting game number : 111
+DEB MainProcess (2021-03-12 18:18:54,805) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:54,805) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:54,880) Starting game number : 102
+DEB MainProcess (2021-03-12 18:18:54,881) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:54,881) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:55,453) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:18:55,460) Starting game number : 103
+DEB MainProcess (2021-03-12 18:18:55,461) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:55,461) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:56,281) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:18:56,288) Starting game number : 104
+DEB MainProcess (2021-03-12 18:18:56,288) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:56,289) New target same as previous one? False
+INF MainProcess (2021-03-12 18:18:56,973) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:18:56,979) Starting game number : 105
+DEB MainProcess (2021-03-12 18:18:56,980) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:18:56,980) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:05,509) Starting game number : 112
+DEB MainProcess (2021-03-12 18:19:05,509) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:05,509) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:06,135) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:19:06,147) Starting game number : 113
+DEB MainProcess (2021-03-12 18:19:06,147) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:06,148) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:06,288) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:19:06,300) Starting game number : 114
+DEB MainProcess (2021-03-12 18:19:06,300) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:06,301) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:06,729) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:19:06,736) Starting game number : 115
+DEB MainProcess (2021-03-12 18:19:06,737) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:06,737) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:07,320) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:19:07,326) Starting game number : 116
+DEB MainProcess (2021-03-12 18:19:07,326) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:07,326) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:08,185) Starting game number : 106
+DEB MainProcess (2021-03-12 18:19:08,186) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:08,186) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:16,708) Starting game number : 117
+DEB MainProcess (2021-03-12 18:19:16,708) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:16,708) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:17,844) Starting game number : 107
+DEB MainProcess (2021-03-12 18:19:17,844) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:17,844) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:25,965) Starting game number : 118
+DEB MainProcess (2021-03-12 18:19:25,965) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:25,965) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:26,484) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:26,491) Starting game number : 119
+DEB MainProcess (2021-03-12 18:19:26,491) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:26,492) New target same as previous one? True
+INF MainProcess (2021-03-12 18:19:26,981) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:26,989) Starting game number : 120
+DEB MainProcess (2021-03-12 18:19:26,989) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:26,990) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:27,194) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:19:27,203) Starting game number : 121
+DEB MainProcess (2021-03-12 18:19:27,203) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:27,204) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:27,350) Starting game number : 108
+DEB MainProcess (2021-03-12 18:19:27,350) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:27,350) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:27,947) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:27,955) Starting game number : 109
+DEB MainProcess (2021-03-12 18:19:27,955) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:27,955) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:37,051) Starting game number : 122
+DEB MainProcess (2021-03-12 18:19:37,051) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:37,052) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:37,124) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:19:37,132) Starting game number : 123
+DEB MainProcess (2021-03-12 18:19:37,132) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:37,133) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:37,471) Starting game number : 110
+DEB MainProcess (2021-03-12 18:19:37,471) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:37,472) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:38,106) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:19:38,113) Starting game number : 111
+DEB MainProcess (2021-03-12 18:19:38,113) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:38,114) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:38,649) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:38,655) Starting game number : 112
+DEB MainProcess (2021-03-12 18:19:38,655) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:38,655) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:38,995) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:19:39,003) Starting game number : 113
+DEB MainProcess (2021-03-12 18:19:39,003) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:39,003) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:39,219) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:19:39,227) Starting game number : 114
+DEB MainProcess (2021-03-12 18:19:39,227) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:39,227) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:39,774) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:39,781) Starting game number : 115
+DEB MainProcess (2021-03-12 18:19:39,781) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:39,781) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:46,161) Starting game number : 124
+DEB MainProcess (2021-03-12 18:19:46,162) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:46,162) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:46,589) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:19:46,596) Starting game number : 125
+DEB MainProcess (2021-03-12 18:19:46,596) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:46,596) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:47,284) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:19:47,291) Starting game number : 126
+DEB MainProcess (2021-03-12 18:19:47,291) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:47,291) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:47,373) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:19:47,379) Starting game number : 127
+DEB MainProcess (2021-03-12 18:19:47,379) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:47,380) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:48,804) Starting game number : 116
+DEB MainProcess (2021-03-12 18:19:48,804) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:48,805) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:48,898) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:19:48,905) Starting game number : 117
+DEB MainProcess (2021-03-12 18:19:48,905) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:48,906) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:56,078) Starting game number : 128
+DEB MainProcess (2021-03-12 18:19:56,078) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:56,078) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:56,250) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:19:56,258) Starting game number : 129
+DEB MainProcess (2021-03-12 18:19:56,258) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:56,258) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:56,907) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:19:56,913) Starting game number : 130
+DEB MainProcess (2021-03-12 18:19:56,913) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:56,913) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:56,997) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:19:57,006) Starting game number : 131
+DEB MainProcess (2021-03-12 18:19:57,006) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:57,006) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:58,294) Starting game number : 118
+DEB MainProcess (2021-03-12 18:19:58,294) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:58,294) New target same as previous one? False
+INF MainProcess (2021-03-12 18:19:58,967) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:19:58,977) Starting game number : 119
+DEB MainProcess (2021-03-12 18:19:58,977) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:19:58,977) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:06,917) Starting game number : 132
+DEB MainProcess (2021-03-12 18:20:06,917) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:06,918) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:08,890) Starting game number : 120
+DEB MainProcess (2021-03-12 18:20:08,890) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:08,890) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:09,112) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:20:09,117) Starting game number : 121
+DEB MainProcess (2021-03-12 18:20:09,117) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:09,118) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:15,959) Starting game number : 133
+DEB MainProcess (2021-03-12 18:20:15,959) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:15,959) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:16,478) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:20:16,484) Starting game number : 134
+DEB MainProcess (2021-03-12 18:20:16,484) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:16,484) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:16,568) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:20:16,574) Starting game number : 135
+DEB MainProcess (2021-03-12 18:20:16,575) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:16,575) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:18,460) Starting game number : 122
+DEB MainProcess (2021-03-12 18:20:18,460) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:18,461) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:25,480) Starting game number : 136
+DEB MainProcess (2021-03-12 18:20:25,480) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:25,480) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:27,702) Starting game number : 123
+DEB MainProcess (2021-03-12 18:20:27,702) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:27,702) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:27,810) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:20:27,820) Starting game number : 124
+DEB MainProcess (2021-03-12 18:20:27,820) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:27,820) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:34,524) Starting game number : 137
+DEB MainProcess (2021-03-12 18:20:34,524) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:34,524) New target same as previous one? True
+INF MainProcess (2021-03-12 18:20:37,347) Starting game number : 125
+DEB MainProcess (2021-03-12 18:20:37,348) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:37,348) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:37,844) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:20:37,851) Starting game number : 126
+DEB MainProcess (2021-03-12 18:20:37,852) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:37,852) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:43,642) Starting game number : 138
+DEB MainProcess (2021-03-12 18:20:43,642) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:43,642) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:43,861) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:20:43,869) Starting game number : 139
+DEB MainProcess (2021-03-12 18:20:43,870) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:43,870) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:44,556) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:20:44,563) Starting game number : 140
+DEB MainProcess (2021-03-12 18:20:44,563) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:44,563) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:45,195) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:20:45,203) Starting game number : 141
+DEB MainProcess (2021-03-12 18:20:45,203) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:45,203) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:45,591) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:20:45,599) Starting game number : 142
+DEB MainProcess (2021-03-12 18:20:45,599) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:45,599) New target same as previous one? True
+INF MainProcess (2021-03-12 18:20:45,920) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:20:45,928) Starting game number : 143
+DEB MainProcess (2021-03-12 18:20:45,928) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:45,928) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:46,106) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:20:46,114) Starting game number : 144
+DEB MainProcess (2021-03-12 18:20:46,114) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:46,114) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:46,732) Starting game number : 127
+DEB MainProcess (2021-03-12 18:20:46,732) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:46,733) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:47,055) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:20:47,062) Starting game number : 128
+DEB MainProcess (2021-03-12 18:20:47,062) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:47,062) New target same as previous one? True
+INF MainProcess (2021-03-12 18:20:47,392) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:20:47,398) Starting game number : 129
+DEB MainProcess (2021-03-12 18:20:47,398) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:47,398) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:47,969) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:20:47,975) Starting game number : 130
+DEB MainProcess (2021-03-12 18:20:47,975) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:47,975) New target same as previous one? True
+INF MainProcess (2021-03-12 18:20:48,471) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:20:48,476) Starting game number : 131
+DEB MainProcess (2021-03-12 18:20:48,476) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:48,477) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:48,563) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:20:48,569) Starting game number : 132
+DEB MainProcess (2021-03-12 18:20:48,569) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:48,569) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:55,332) Starting game number : 145
+DEB MainProcess (2021-03-12 18:20:55,332) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:55,332) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:55,429) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:20:55,435) Starting game number : 146
+DEB MainProcess (2021-03-12 18:20:55,435) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:55,436) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:57,868) Starting game number : 133
+DEB MainProcess (2021-03-12 18:20:57,868) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:57,868) New target same as previous one? False
+INF MainProcess (2021-03-12 18:20:58,511) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:20:58,517) Starting game number : 134
+DEB MainProcess (2021-03-12 18:20:58,517) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:20:58,518) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:04,334) Starting game number : 147
+DEB MainProcess (2021-03-12 18:21:04,334) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:04,335) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:04,568) Won! Found target in 3 steps
+INF MainProcess (2021-03-12 18:21:04,576) Starting game number : 148
+DEB MainProcess (2021-03-12 18:21:04,576) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:04,578) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:07,686) Starting game number : 135
+DEB MainProcess (2021-03-12 18:21:07,686) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:07,686) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:13,262) Starting game number : 149
+DEB MainProcess (2021-03-12 18:21:13,262) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:13,262) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:13,376) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:13,391) Starting game number : 150
+DEB MainProcess (2021-03-12 18:21:13,391) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:13,392) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:13,976) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:21:13,983) Starting game number : 151
+DEB MainProcess (2021-03-12 18:21:13,983) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:13,983) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:16,652) Starting game number : 136
+DEB MainProcess (2021-03-12 18:21:16,653) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:16,653) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:22,227) Won! Found target in 93 steps
+INF MainProcess (2021-03-12 18:21:22,235) Starting game number : 152
+DEB MainProcess (2021-03-12 18:21:22,235) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:22,236) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:25,725) Starting game number : 137
+DEB MainProcess (2021-03-12 18:21:25,725) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:25,725) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:25,902) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:25,909) Starting game number : 138
+DEB MainProcess (2021-03-12 18:21:25,909) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:25,909) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:25,985) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:25,993) Starting game number : 139
+DEB MainProcess (2021-03-12 18:21:25,993) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:25,993) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:26,170) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:26,176) Starting game number : 140
+DEB MainProcess (2021-03-12 18:21:26,176) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:26,176) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:26,251) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:26,257) Starting game number : 141
+DEB MainProcess (2021-03-12 18:21:26,257) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:26,257) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:26,338) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:26,346) Starting game number : 142
+DEB MainProcess (2021-03-12 18:21:26,346) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:26,346) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:26,903) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:21:26,911) Starting game number : 143
+DEB MainProcess (2021-03-12 18:21:26,911) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:26,911) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:31,734) Starting game number : 153
+DEB MainProcess (2021-03-12 18:21:31,734) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:31,734) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:32,085) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:21:32,092) Starting game number : 154
+DEB MainProcess (2021-03-12 18:21:32,092) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:32,093) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:32,737) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:21:32,746) Starting game number : 155
+DEB MainProcess (2021-03-12 18:21:32,746) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:32,746) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:33,374) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:21:33,382) Starting game number : 156
+DEB MainProcess (2021-03-12 18:21:33,382) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:33,383) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:33,478) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:33,485) Starting game number : 157
+DEB MainProcess (2021-03-12 18:21:33,485) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:33,485) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:33,563) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:33,571) Starting game number : 158
+DEB MainProcess (2021-03-12 18:21:33,571) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:33,571) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:36,207) Starting game number : 144
+DEB MainProcess (2021-03-12 18:21:36,207) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:36,207) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:42,364) Starting game number : 159
+DEB MainProcess (2021-03-12 18:21:42,364) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:42,364) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:42,726) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:21:42,732) Starting game number : 160
+DEB MainProcess (2021-03-12 18:21:42,732) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:42,733) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:45,357) Starting game number : 145
+DEB MainProcess (2021-03-12 18:21:45,357) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:45,358) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:51,789) Starting game number : 161
+DEB MainProcess (2021-03-12 18:21:51,789) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:51,789) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:51,969) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:51,978) Starting game number : 162
+DEB MainProcess (2021-03-12 18:21:51,978) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:51,978) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:52,150) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:52,156) Starting game number : 163
+DEB MainProcess (2021-03-12 18:21:52,156) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:52,156) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:52,370) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:52,377) Starting game number : 164
+DEB MainProcess (2021-03-12 18:21:52,377) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:52,377) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:52,538) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:52,545) Starting game number : 165
+DEB MainProcess (2021-03-12 18:21:52,545) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:52,546) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:52,638) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:21:52,645) Starting game number : 166
+DEB MainProcess (2021-03-12 18:21:52,646) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:52,646) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:54,420) Starting game number : 146
+DEB MainProcess (2021-03-12 18:21:54,420) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:54,420) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:54,793) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:21:54,798) Starting game number : 147
+DEB MainProcess (2021-03-12 18:21:54,798) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:54,798) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:54,955) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:21:54,964) Starting game number : 148
+DEB MainProcess (2021-03-12 18:21:54,964) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:54,964) New target same as previous one? False
+INF MainProcess (2021-03-12 18:21:55,382) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:21:55,388) Starting game number : 149
+DEB MainProcess (2021-03-12 18:21:55,388) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:55,388) New target same as previous one? True
+INF MainProcess (2021-03-12 18:21:55,746) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:21:55,754) Starting game number : 150
+DEB MainProcess (2021-03-12 18:21:55,754) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:21:55,754) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:01,964) Starting game number : 167
+DEB MainProcess (2021-03-12 18:22:01,964) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:01,964) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:05,146) Starting game number : 151
+DEB MainProcess (2021-03-12 18:22:05,146) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:05,146) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:05,486) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:22:05,491) Starting game number : 152
+DEB MainProcess (2021-03-12 18:22:05,491) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:05,492) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:05,674) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:22:05,679) Starting game number : 153
+DEB MainProcess (2021-03-12 18:22:05,679) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:05,680) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:11,476) Starting game number : 168
+DEB MainProcess (2021-03-12 18:22:11,476) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:11,477) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:12,037) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:22:12,045) Starting game number : 169
+DEB MainProcess (2021-03-12 18:22:12,045) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:12,045) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:12,665) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:22:12,672) Starting game number : 170
+DEB MainProcess (2021-03-12 18:22:12,672) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:12,672) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:14,984) Starting game number : 154
+DEB MainProcess (2021-03-12 18:22:14,984) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:14,984) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:15,516) Won! Found target in 32 steps
+INF MainProcess (2021-03-12 18:22:15,524) Starting game number : 171
+DEB MainProcess (2021-03-12 18:22:15,524) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:15,524) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:15,640) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:22:15,649) Starting game number : 155
+DEB MainProcess (2021-03-12 18:22:15,649) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:15,649) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:15,994) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:22:15,999) Starting game number : 156
+DEB MainProcess (2021-03-12 18:22:15,999) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:16,000) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:16,571) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:22:16,577) Starting game number : 157
+DEB MainProcess (2021-03-12 18:22:16,577) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:16,577) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:16,802) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:22:16,808) Starting game number : 158
+DEB MainProcess (2021-03-12 18:22:16,808) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:16,808) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:16,907) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:22:16,913) Starting game number : 159
+DEB MainProcess (2021-03-12 18:22:16,913) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:16,914) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:17,059) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:22:17,072) Starting game number : 160
+DEB MainProcess (2021-03-12 18:22:17,072) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:17,073) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:17,641) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:22:17,647) Starting game number : 161
+DEB MainProcess (2021-03-12 18:22:17,647) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:17,647) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:17,722) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:22:17,728) Starting game number : 162
+DEB MainProcess (2021-03-12 18:22:17,728) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:17,728) New target same as previous one? True
+INF MainProcess (2021-03-12 18:22:17,802) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:22:17,808) Starting game number : 163
+DEB MainProcess (2021-03-12 18:22:17,808) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:17,808) New target same as previous one? True
+INF MainProcess (2021-03-12 18:22:17,901) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:22:17,906) Starting game number : 164
+DEB MainProcess (2021-03-12 18:22:17,906) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:17,906) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:24,772) Starting game number : 172
+DEB MainProcess (2021-03-12 18:22:24,772) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:24,773) New target same as previous one? True
+INF MainProcess (2021-03-12 18:22:27,079) Starting game number : 165
+DEB MainProcess (2021-03-12 18:22:27,079) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:27,079) New target same as previous one? True
+INF MainProcess (2021-03-12 18:22:34,056) Starting game number : 173
+DEB MainProcess (2021-03-12 18:22:34,057) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:34,057) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:35,881) Starting game number : 166
+DEB MainProcess (2021-03-12 18:22:35,882) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:35,882) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:36,054) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:22:36,061) Starting game number : 167
+DEB MainProcess (2021-03-12 18:22:36,061) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:36,062) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:36,388) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:22:36,395) Starting game number : 168
+DEB MainProcess (2021-03-12 18:22:36,395) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:36,395) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:43,319) Starting game number : 174
+DEB MainProcess (2021-03-12 18:22:43,319) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:43,320) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:45,682) Starting game number : 169
+DEB MainProcess (2021-03-12 18:22:45,683) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:45,683) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:52,821) Starting game number : 175
+DEB MainProcess (2021-03-12 18:22:52,821) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:52,821) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:53,210) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:22:53,218) Starting game number : 176
+DEB MainProcess (2021-03-12 18:22:53,218) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:53,219) New target same as previous one? False
+INF MainProcess (2021-03-12 18:22:54,736) Starting game number : 170
+DEB MainProcess (2021-03-12 18:22:54,736) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:22:54,736) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:02,325) Starting game number : 177
+DEB MainProcess (2021-03-12 18:23:02,325) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:02,325) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:03,899) Starting game number : 171
+DEB MainProcess (2021-03-12 18:23:03,899) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:03,900) New target same as previous one? True
+INF MainProcess (2021-03-12 18:23:11,500) Starting game number : 178
+DEB MainProcess (2021-03-12 18:23:11,500) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:11,500) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:12,073) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:12,080) Starting game number : 179
+DEB MainProcess (2021-03-12 18:23:12,080) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:12,080) New target same as previous one? True
+INF MainProcess (2021-03-12 18:23:12,419) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:23:12,425) Starting game number : 180
+DEB MainProcess (2021-03-12 18:23:12,425) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:12,425) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:12,499) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:23:12,507) Starting game number : 181
+DEB MainProcess (2021-03-12 18:23:12,507) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:12,507) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:12,540) Starting game number : 172
+DEB MainProcess (2021-03-12 18:23:12,540) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:12,540) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:12,761) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:23:12,769) Starting game number : 173
+DEB MainProcess (2021-03-12 18:23:12,769) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:12,770) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:13,454) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:13,460) Starting game number : 174
+DEB MainProcess (2021-03-12 18:23:13,460) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:13,460) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:13,534) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:23:13,543) Starting game number : 175
+DEB MainProcess (2021-03-12 18:23:13,543) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:13,543) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:13,704) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:23:13,709) Starting game number : 176
+DEB MainProcess (2021-03-12 18:23:13,710) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:13,710) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:13,773) Won! Found target in 14 steps
+INF MainProcess (2021-03-12 18:23:13,781) Starting game number : 182
+DEB MainProcess (2021-03-12 18:23:13,781) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:13,781) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:14,336) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:14,337) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:23:14,341) Starting game number : 177
+DEB MainProcess (2021-03-12 18:23:14,341) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:14,342) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:14,345) Starting game number : 183
+DEB MainProcess (2021-03-12 18:23:14,345) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:14,346) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:14,488) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:23:14,494) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:23:14,494) Starting game number : 178
+DEB MainProcess (2021-03-12 18:23:14,494) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:14,495) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:14,502) Starting game number : 184
+DEB MainProcess (2021-03-12 18:23:14,502) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:14,502) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:15,049) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:23:15,056) Starting game number : 179
+DEB MainProcess (2021-03-12 18:23:15,056) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:15,056) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:15,164) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:23:15,170) Starting game number : 180
+DEB MainProcess (2021-03-12 18:23:15,170) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:15,170) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:22,968) Starting game number : 185
+DEB MainProcess (2021-03-12 18:23:22,968) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:22,969) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:24,062) Starting game number : 181
+DEB MainProcess (2021-03-12 18:23:24,062) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:24,062) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:24,476) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:23:24,482) Starting game number : 182
+DEB MainProcess (2021-03-12 18:23:24,483) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:24,483) New target same as previous one? True
+INF MainProcess (2021-03-12 18:23:24,936) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:23:24,945) Starting game number : 183
+DEB MainProcess (2021-03-12 18:23:24,945) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:24,945) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:32,377) Starting game number : 186
+DEB MainProcess (2021-03-12 18:23:32,377) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:32,378) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:34,586) Starting game number : 184
+DEB MainProcess (2021-03-12 18:23:34,586) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:34,586) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:44,283) Starting game number : 187
+DEB MainProcess (2021-03-12 18:23:44,283) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:44,283) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:44,719) Won! Found target in 5 steps
+INF MainProcess (2021-03-12 18:23:44,727) Starting game number : 188
+DEB MainProcess (2021-03-12 18:23:44,727) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:44,728) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:45,300) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:23:45,306) Starting game number : 189
+DEB MainProcess (2021-03-12 18:23:45,306) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:45,307) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:45,859) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:45,868) Starting game number : 190
+DEB MainProcess (2021-03-12 18:23:45,868) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:45,868) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:46,218) Starting game number : 185
+DEB MainProcess (2021-03-12 18:23:46,218) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:46,218) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:46,813) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:23:46,820) Starting game number : 186
+DEB MainProcess (2021-03-12 18:23:46,820) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:46,820) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:54,848) Starting game number : 191
+DEB MainProcess (2021-03-12 18:23:54,848) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:54,849) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:55,217) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:23:55,224) Starting game number : 192
+DEB MainProcess (2021-03-12 18:23:55,224) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:55,225) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:56,146) Starting game number : 187
+DEB MainProcess (2021-03-12 18:23:56,146) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:56,146) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:56,444) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:23:56,449) Starting game number : 188
+DEB MainProcess (2021-03-12 18:23:56,449) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:56,450) New target same as previous one? False
+INF MainProcess (2021-03-12 18:23:57,046) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:57,054) Starting game number : 189
+DEB MainProcess (2021-03-12 18:23:57,054) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:57,054) New target same as previous one? True
+INF MainProcess (2021-03-12 18:23:57,742) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:23:57,749) Starting game number : 190
+DEB MainProcess (2021-03-12 18:23:57,749) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:23:57,750) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:04,093) Starting game number : 193
+DEB MainProcess (2021-03-12 18:24:04,093) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:04,094) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:04,730) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:04,738) Starting game number : 194
+DEB MainProcess (2021-03-12 18:24:04,738) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:04,738) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:07,110) Starting game number : 191
+DEB MainProcess (2021-03-12 18:24:07,110) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:07,110) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:07,259) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:07,266) Starting game number : 192
+DEB MainProcess (2021-03-12 18:24:07,266) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:07,266) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:07,384) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:07,390) Starting game number : 193
+DEB MainProcess (2021-03-12 18:24:07,390) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:07,390) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:07,832) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:07,839) Starting game number : 194
+DEB MainProcess (2021-03-12 18:24:07,839) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:07,839) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:07,929) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:07,934) Starting game number : 195
+DEB MainProcess (2021-03-12 18:24:07,934) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:07,934) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:08,269) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:08,274) Starting game number : 196
+DEB MainProcess (2021-03-12 18:24:08,274) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:08,275) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:08,863) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:08,871) Starting game number : 197
+DEB MainProcess (2021-03-12 18:24:08,871) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:08,871) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:13,737) Starting game number : 195
+DEB MainProcess (2021-03-12 18:24:13,737) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:13,737) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:14,253) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:14,259) Starting game number : 196
+DEB MainProcess (2021-03-12 18:24:14,259) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:14,259) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:14,336) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:14,341) Starting game number : 197
+DEB MainProcess (2021-03-12 18:24:14,341) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:14,341) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:15,416) Won! Found target in 11 steps
+INF MainProcess (2021-03-12 18:24:15,422) Starting game number : 198
+DEB MainProcess (2021-03-12 18:24:15,423) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:15,423) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:15,963) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:15,970) Starting game number : 199
+DEB MainProcess (2021-03-12 18:24:15,970) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:15,971) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:16,907) Won! Found target in 11 steps
+INF MainProcess (2021-03-12 18:24:16,914) Starting game number : 200
+DEB MainProcess (2021-03-12 18:24:16,914) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:16,915) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:17,746) Starting game number : 198
+DEB MainProcess (2021-03-12 18:24:17,746) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:17,746) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:25,796) Starting game number : 201
+DEB MainProcess (2021-03-12 18:24:25,796) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:25,796) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:27,009) Starting game number : 199
+DEB MainProcess (2021-03-12 18:24:27,009) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:27,010) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:27,331) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:27,338) Starting game number : 200
+DEB MainProcess (2021-03-12 18:24:27,338) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:27,338) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:27,841) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:27,847) Starting game number : 201
+DEB MainProcess (2021-03-12 18:24:27,847) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:27,847) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:28,056) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:28,062) Starting game number : 202
+DEB MainProcess (2021-03-12 18:24:28,062) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:28,063) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:28,215) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:28,222) Starting game number : 203
+DEB MainProcess (2021-03-12 18:24:28,222) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:28,223) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:28,855) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:28,863) Starting game number : 204
+DEB MainProcess (2021-03-12 18:24:28,863) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:28,864) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:35,207) Starting game number : 202
+DEB MainProcess (2021-03-12 18:24:35,207) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:35,207) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:35,746) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:35,753) Starting game number : 203
+DEB MainProcess (2021-03-12 18:24:35,754) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:35,754) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:38,411) Starting game number : 205
+DEB MainProcess (2021-03-12 18:24:38,411) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:38,411) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:38,633) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:38,640) Starting game number : 206
+DEB MainProcess (2021-03-12 18:24:38,640) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:38,641) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:38,997) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:39,002) Starting game number : 207
+DEB MainProcess (2021-03-12 18:24:39,002) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:39,003) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:39,653) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:39,659) Starting game number : 208
+DEB MainProcess (2021-03-12 18:24:39,659) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:39,659) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:40,246) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:40,253) Starting game number : 209
+DEB MainProcess (2021-03-12 18:24:40,254) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:40,254) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:40,709) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:40,718) Starting game number : 210
+DEB MainProcess (2021-03-12 18:24:40,718) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:40,719) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:40,825) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:40,834) Starting game number : 211
+DEB MainProcess (2021-03-12 18:24:40,834) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:40,834) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:40,925) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:40,931) Starting game number : 212
+DEB MainProcess (2021-03-12 18:24:40,931) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:40,931) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:41,104) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:41,110) Starting game number : 213
+DEB MainProcess (2021-03-12 18:24:41,110) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:41,110) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:41,627) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:41,635) Starting game number : 214
+DEB MainProcess (2021-03-12 18:24:41,636) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:41,636) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:44,783) Starting game number : 204
+DEB MainProcess (2021-03-12 18:24:44,784) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:44,784) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:45,147) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:45,155) Starting game number : 205
+DEB MainProcess (2021-03-12 18:24:45,155) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:45,156) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:45,779) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:45,786) Starting game number : 206
+DEB MainProcess (2021-03-12 18:24:45,787) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:45,787) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:46,147) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:46,155) Starting game number : 207
+DEB MainProcess (2021-03-12 18:24:46,156) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:46,156) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:46,535) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:24:46,543) Starting game number : 208
+DEB MainProcess (2021-03-12 18:24:46,543) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:46,543) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:46,705) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:46,712) Starting game number : 209
+DEB MainProcess (2021-03-12 18:24:46,712) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:46,713) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:47,258) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:24:47,267) Starting game number : 210
+DEB MainProcess (2021-03-12 18:24:47,267) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:47,267) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:48,027) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:24:48,037) Starting game number : 211
+DEB MainProcess (2021-03-12 18:24:48,037) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:48,037) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:48,289) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:24:48,299) Starting game number : 212
+DEB MainProcess (2021-03-12 18:24:48,299) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:48,299) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:49,014) Won! Found target in 8 steps
+INF MainProcess (2021-03-12 18:24:49,021) Starting game number : 213
+DEB MainProcess (2021-03-12 18:24:49,021) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:49,022) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:52,145) Starting game number : 215
+DEB MainProcess (2021-03-12 18:24:52,145) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:52,146) New target same as previous one? True
+INF MainProcess (2021-03-12 18:24:59,149) Starting game number : 214
+DEB MainProcess (2021-03-12 18:24:59,149) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:59,150) New target same as previous one? False
+INF MainProcess (2021-03-12 18:24:59,225) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:24:59,231) Starting game number : 215
+DEB MainProcess (2021-03-12 18:24:59,231) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:24:59,231) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:01,763) Starting game number : 216
+DEB MainProcess (2021-03-12 18:25:01,763) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:01,763) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:01,837) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:01,844) Starting game number : 217
+DEB MainProcess (2021-03-12 18:25:01,844) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:01,844) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:02,498) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:25:02,504) Starting game number : 218
+DEB MainProcess (2021-03-12 18:25:02,504) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:02,505) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:02,579) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:02,586) Starting game number : 219
+DEB MainProcess (2021-03-12 18:25:02,586) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:02,586) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:07,389) Starting game number : 216
+DEB MainProcess (2021-03-12 18:25:07,389) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:07,390) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:11,386) Starting game number : 220
+DEB MainProcess (2021-03-12 18:25:11,387) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:11,387) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:15,947) Starting game number : 217
+DEB MainProcess (2021-03-12 18:25:15,947) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:15,947) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:16,309) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:16,317) Starting game number : 218
+DEB MainProcess (2021-03-12 18:25:16,317) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:16,318) New target same as previous one? True
+INF MainProcess (2021-03-12 18:25:16,668) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:16,674) Starting game number : 219
+DEB MainProcess (2021-03-12 18:25:16,674) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:16,675) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:17,134) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:25:17,140) Starting game number : 220
+DEB MainProcess (2021-03-12 18:25:17,140) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:17,140) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:17,468) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:17,476) Starting game number : 221
+DEB MainProcess (2021-03-12 18:25:17,476) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:17,476) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:17,677) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:25:17,683) Starting game number : 222
+DEB MainProcess (2021-03-12 18:25:17,683) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:17,683) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:18,305) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:25:18,314) Starting game number : 223
+DEB MainProcess (2021-03-12 18:25:18,314) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:18,315) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:18,680) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:18,686) Starting game number : 224
+DEB MainProcess (2021-03-12 18:25:18,686) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:18,687) New target same as previous one? True
+INF MainProcess (2021-03-12 18:25:19,091) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:19,098) Starting game number : 225
+DEB MainProcess (2021-03-12 18:25:19,099) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:19,099) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:20,145) Starting game number : 221
+DEB MainProcess (2021-03-12 18:25:20,145) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:20,146) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:20,299) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:20,307) Starting game number : 222
+DEB MainProcess (2021-03-12 18:25:20,307) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:20,308) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:27,839) Starting game number : 226
+DEB MainProcess (2021-03-12 18:25:27,839) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:27,839) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:28,943) Starting game number : 223
+DEB MainProcess (2021-03-12 18:25:28,943) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:28,943) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:29,017) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:29,024) Starting game number : 224
+DEB MainProcess (2021-03-12 18:25:29,024) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:29,024) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:29,606) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:25:29,612) Starting game number : 225
+DEB MainProcess (2021-03-12 18:25:29,612) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:29,612) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:29,701) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:29,706) Starting game number : 226
+DEB MainProcess (2021-03-12 18:25:29,706) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:29,706) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:30,070) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:25:30,077) Starting game number : 227
+DEB MainProcess (2021-03-12 18:25:30,077) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:30,077) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:30,714) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:25:30,722) Starting game number : 228
+DEB MainProcess (2021-03-12 18:25:30,722) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:30,722) New target same as previous one? True
+INF MainProcess (2021-03-12 18:25:31,346) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:25:31,352) Starting game number : 229
+DEB MainProcess (2021-03-12 18:25:31,352) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:31,352) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:36,731) Starting game number : 227
+DEB MainProcess (2021-03-12 18:25:36,731) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:36,731) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:39,995) Starting game number : 230
+DEB MainProcess (2021-03-12 18:25:39,995) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:39,995) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:40,455) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:25:40,460) Starting game number : 231
+DEB MainProcess (2021-03-12 18:25:40,461) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:40,461) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:40,632) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:25:40,645) Starting game number : 232
+DEB MainProcess (2021-03-12 18:25:40,645) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:40,645) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:45,552) Starting game number : 228
+DEB MainProcess (2021-03-12 18:25:45,552) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:45,553) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:46,045) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:25:46,053) Starting game number : 229
+DEB MainProcess (2021-03-12 18:25:46,053) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:46,053) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:49,973) Starting game number : 233
+DEB MainProcess (2021-03-12 18:25:49,973) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:49,973) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:50,760) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:25:50,767) Starting game number : 234
+DEB MainProcess (2021-03-12 18:25:50,767) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:50,767) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:50,861) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:50,867) Starting game number : 235
+DEB MainProcess (2021-03-12 18:25:50,867) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:50,867) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:51,029) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:25:51,035) Starting game number : 236
+DEB MainProcess (2021-03-12 18:25:51,035) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:51,035) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:51,108) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:25:51,114) Starting game number : 237
+DEB MainProcess (2021-03-12 18:25:51,114) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:51,115) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:54,960) Starting game number : 230
+DEB MainProcess (2021-03-12 18:25:54,960) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:54,960) New target same as previous one? False
+INF MainProcess (2021-03-12 18:25:59,566) Starting game number : 238
+DEB MainProcess (2021-03-12 18:25:59,566) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:25:59,566) New target same as previous one? True
+INF MainProcess (2021-03-12 18:26:03,916) Starting game number : 231
+DEB MainProcess (2021-03-12 18:26:03,916) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:03,917) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:08,250) Starting game number : 239
+DEB MainProcess (2021-03-12 18:26:08,250) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:08,250) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:08,429) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:08,435) Starting game number : 240
+DEB MainProcess (2021-03-12 18:26:08,435) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:08,435) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:09,062) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:26:09,069) Starting game number : 241
+DEB MainProcess (2021-03-12 18:26:09,069) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:09,069) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:09,263) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:09,269) Starting game number : 242
+DEB MainProcess (2021-03-12 18:26:09,270) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:09,270) New target same as previous one? True
+INF MainProcess (2021-03-12 18:26:09,467) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:09,474) Starting game number : 243
+DEB MainProcess (2021-03-12 18:26:09,474) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:09,474) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:12,604) Starting game number : 232
+DEB MainProcess (2021-03-12 18:26:12,604) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:12,605) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:12,712) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:26:12,718) Starting game number : 233
+DEB MainProcess (2021-03-12 18:26:12,718) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:12,718) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:13,060) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:26:13,066) Starting game number : 234
+DEB MainProcess (2021-03-12 18:26:13,066) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:13,067) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:17,909) Starting game number : 244
+DEB MainProcess (2021-03-12 18:26:17,910) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:17,910) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:18,080) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:18,089) Starting game number : 245
+DEB MainProcess (2021-03-12 18:26:18,089) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:18,089) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:21,839) Starting game number : 235
+DEB MainProcess (2021-03-12 18:26:21,839) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:21,839) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:27,055) Starting game number : 246
+DEB MainProcess (2021-03-12 18:26:27,055) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:27,056) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:27,632) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:26:27,639) Starting game number : 247
+DEB MainProcess (2021-03-12 18:26:27,639) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:27,640) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:27,748) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:26:27,755) Starting game number : 248
+DEB MainProcess (2021-03-12 18:26:27,755) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:27,756) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:30,258) Starting game number : 236
+DEB MainProcess (2021-03-12 18:26:30,258) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:30,258) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:30,338) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:26:30,345) Starting game number : 237
+DEB MainProcess (2021-03-12 18:26:30,345) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:30,346) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:36,658) Starting game number : 249
+DEB MainProcess (2021-03-12 18:26:36,658) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:36,659) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:39,205) Starting game number : 238
+DEB MainProcess (2021-03-12 18:26:39,205) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:39,206) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:39,778) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:26:39,784) Starting game number : 239
+DEB MainProcess (2021-03-12 18:26:39,784) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:39,784) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:40,117) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:26:40,123) Starting game number : 240
+DEB MainProcess (2021-03-12 18:26:40,123) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:40,124) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:45,705) Starting game number : 250
+DEB MainProcess (2021-03-12 18:26:45,705) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:45,705) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:48,536) Starting game number : 241
+DEB MainProcess (2021-03-12 18:26:48,536) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:48,537) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:54,418) Starting game number : 251
+DEB MainProcess (2021-03-12 18:26:54,418) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:54,419) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:57,222) Starting game number : 242
+DEB MainProcess (2021-03-12 18:26:57,222) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:57,223) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:57,393) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:57,399) Starting game number : 243
+DEB MainProcess (2021-03-12 18:26:57,399) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:57,399) New target same as previous one? True
+INF MainProcess (2021-03-12 18:26:57,576) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:57,584) Starting game number : 244
+DEB MainProcess (2021-03-12 18:26:57,584) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:57,584) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:58,194) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:26:58,201) Starting game number : 245
+DEB MainProcess (2021-03-12 18:26:58,201) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:58,201) New target same as previous one? False
+INF MainProcess (2021-03-12 18:26:58,406) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:26:58,412) Starting game number : 246
+DEB MainProcess (2021-03-12 18:26:58,412) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:26:58,413) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:03,407) Starting game number : 252
+DEB MainProcess (2021-03-12 18:27:03,407) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:03,407) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:03,550) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:27:03,556) Starting game number : 253
+DEB MainProcess (2021-03-12 18:27:03,556) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:03,556) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:03,656) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:03,663) Starting game number : 254
+DEB MainProcess (2021-03-12 18:27:03,663) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:03,663) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:03,816) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:27:03,821) Starting game number : 255
+DEB MainProcess (2021-03-12 18:27:03,821) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:03,821) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:04,260) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:04,265) Starting game number : 256
+DEB MainProcess (2021-03-12 18:27:04,265) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:04,266) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:07,010) Starting game number : 247
+DEB MainProcess (2021-03-12 18:27:07,010) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:07,010) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:07,542) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:27:07,548) Starting game number : 248
+DEB MainProcess (2021-03-12 18:27:07,548) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:07,548) New target same as previous one? True
+INF MainProcess (2021-03-12 18:27:08,195) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:27:08,203) Starting game number : 249
+DEB MainProcess (2021-03-12 18:27:08,204) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:08,204) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:08,283) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:08,292) Starting game number : 250
+DEB MainProcess (2021-03-12 18:27:08,292) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:08,292) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:08,883) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:27:08,889) Starting game number : 251
+DEB MainProcess (2021-03-12 18:27:08,889) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:08,889) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:13,465) Starting game number : 257
+DEB MainProcess (2021-03-12 18:27:13,466) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:13,466) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:13,552) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:13,560) Starting game number : 258
+DEB MainProcess (2021-03-12 18:27:13,560) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:13,560) New target same as previous one? True
+INF MainProcess (2021-03-12 18:27:13,671) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:13,678) Starting game number : 259
+DEB MainProcess (2021-03-12 18:27:13,678) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:13,678) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:17,716) Starting game number : 252
+DEB MainProcess (2021-03-12 18:27:17,716) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:17,716) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:18,224) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:27:18,230) Starting game number : 253
+DEB MainProcess (2021-03-12 18:27:18,230) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:18,230) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:18,305) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:18,314) Starting game number : 254
+DEB MainProcess (2021-03-12 18:27:18,314) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:18,314) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:22,319) Starting game number : 260
+DEB MainProcess (2021-03-12 18:27:22,319) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:22,319) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:22,640) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:22,647) Starting game number : 261
+DEB MainProcess (2021-03-12 18:27:22,647) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:22,647) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:22,811) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:27:22,817) Starting game number : 262
+DEB MainProcess (2021-03-12 18:27:22,817) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:22,817) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:23,180) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:23,187) Starting game number : 263
+DEB MainProcess (2021-03-12 18:27:23,187) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:23,188) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:27,306) Starting game number : 255
+DEB MainProcess (2021-03-12 18:27:27,306) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:27,307) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:27,473) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:27:27,479) Starting game number : 256
+DEB MainProcess (2021-03-12 18:27:27,479) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:27,480) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:31,785) Starting game number : 264
+DEB MainProcess (2021-03-12 18:27:31,785) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:31,786) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:36,286) Starting game number : 257
+DEB MainProcess (2021-03-12 18:27:36,286) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:36,287) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:40,773) Starting game number : 265
+DEB MainProcess (2021-03-12 18:27:40,773) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:40,774) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:40,851) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:40,856) Starting game number : 266
+DEB MainProcess (2021-03-12 18:27:40,856) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:40,857) New target same as previous one? True
+INF MainProcess (2021-03-12 18:27:40,945) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:40,950) Starting game number : 267
+DEB MainProcess (2021-03-12 18:27:40,951) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:40,951) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:41,286) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:41,291) Starting game number : 268
+DEB MainProcess (2021-03-12 18:27:41,291) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:41,292) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:44,243) Won! Found target in 91 steps
+INF MainProcess (2021-03-12 18:27:44,251) Starting game number : 258
+DEB MainProcess (2021-03-12 18:27:44,251) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:44,251) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:44,567) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:44,574) Starting game number : 259
+DEB MainProcess (2021-03-12 18:27:44,574) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:44,574) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:44,682) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:44,690) Starting game number : 260
+DEB MainProcess (2021-03-12 18:27:44,690) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:44,691) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:45,594) Won! Found target in 10 steps
+INF MainProcess (2021-03-12 18:27:45,603) Starting game number : 261
+DEB MainProcess (2021-03-12 18:27:45,604) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:45,604) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:45,728) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:45,735) Starting game number : 262
+DEB MainProcess (2021-03-12 18:27:45,735) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:45,736) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:46,076) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:27:46,085) Starting game number : 263
+DEB MainProcess (2021-03-12 18:27:46,085) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:46,086) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:50,247) Starting game number : 269
+DEB MainProcess (2021-03-12 18:27:50,247) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:50,248) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:50,367) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:50,375) Starting game number : 270
+DEB MainProcess (2021-03-12 18:27:50,375) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:50,376) New target same as previous one? True
+INF MainProcess (2021-03-12 18:27:50,537) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:50,547) Starting game number : 271
+DEB MainProcess (2021-03-12 18:27:50,547) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:50,548) New target same as previous one? True
+INF MainProcess (2021-03-12 18:27:50,672) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:50,678) Starting game number : 272
+DEB MainProcess (2021-03-12 18:27:50,678) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:50,679) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:55,462) Starting game number : 264
+DEB MainProcess (2021-03-12 18:27:55,463) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:55,463) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:55,541) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:27:55,548) Starting game number : 265
+DEB MainProcess (2021-03-12 18:27:55,548) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:55,548) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:55,712) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:27:55,719) Starting game number : 266
+DEB MainProcess (2021-03-12 18:27:55,719) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:55,719) New target same as previous one? False
+INF MainProcess (2021-03-12 18:27:59,100) Starting game number : 273
+DEB MainProcess (2021-03-12 18:27:59,100) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:27:59,100) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:04,288) Starting game number : 267
+DEB MainProcess (2021-03-12 18:28:04,288) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:04,288) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:04,758) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:04,764) Starting game number : 268
+DEB MainProcess (2021-03-12 18:28:04,764) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:04,764) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:05,388) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:05,395) Starting game number : 269
+DEB MainProcess (2021-03-12 18:28:05,395) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:05,395) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:05,550) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:28:05,557) Starting game number : 270
+DEB MainProcess (2021-03-12 18:28:05,557) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:05,557) New target same as previous one? True
+INF MainProcess (2021-03-12 18:28:05,760) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:28:05,768) Starting game number : 271
+DEB MainProcess (2021-03-12 18:28:05,768) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:05,768) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:07,741) Won! Found target in 23 steps
+INF MainProcess (2021-03-12 18:28:07,752) Starting game number : 272
+DEB MainProcess (2021-03-12 18:28:07,752) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:07,752) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:07,823) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:28:07,830) Starting game number : 273
+DEB MainProcess (2021-03-12 18:28:07,830) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:07,830) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:07,919) Starting game number : 274
+DEB MainProcess (2021-03-12 18:28:07,919) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:07,919) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:08,310) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:28:08,316) Starting game number : 275
+DEB MainProcess (2021-03-12 18:28:08,316) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:08,317) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:08,337) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:08,344) Starting game number : 274
+DEB MainProcess (2021-03-12 18:28:08,344) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:08,344) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:08,890) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:08,897) Starting game number : 276
+DEB MainProcess (2021-03-12 18:28:08,897) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:08,897) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:08,909) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:08,916) Starting game number : 275
+DEB MainProcess (2021-03-12 18:28:08,916) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:08,916) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:09,305) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:28:09,313) Starting game number : 276
+DEB MainProcess (2021-03-12 18:28:09,313) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:09,313) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:09,942) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:09,949) Starting game number : 277
+DEB MainProcess (2021-03-12 18:28:09,949) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:09,949) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:10,288) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:28:10,296) Starting game number : 278
+DEB MainProcess (2021-03-12 18:28:10,296) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:10,296) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:10,865) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:10,874) Starting game number : 279
+DEB MainProcess (2021-03-12 18:28:10,874) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:10,875) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:11,480) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:11,486) Starting game number : 280
+DEB MainProcess (2021-03-12 18:28:11,486) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:11,486) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:17,623) Starting game number : 277
+DEB MainProcess (2021-03-12 18:28:17,623) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:17,623) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:19,197) Won! Found target in 89 steps
+INF MainProcess (2021-03-12 18:28:19,204) Starting game number : 281
+DEB MainProcess (2021-03-12 18:28:19,204) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:19,204) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:19,373) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:28:19,380) Starting game number : 282
+DEB MainProcess (2021-03-12 18:28:19,380) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:19,380) New target same as previous one? True
+INF MainProcess (2021-03-12 18:28:19,537) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:28:19,545) Starting game number : 283
+DEB MainProcess (2021-03-12 18:28:19,545) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:19,545) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:20,569) Won! Found target in 11 steps
+INF MainProcess (2021-03-12 18:28:20,575) Starting game number : 284
+DEB MainProcess (2021-03-12 18:28:20,575) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:20,575) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:26,680) Starting game number : 278
+DEB MainProcess (2021-03-12 18:28:26,681) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:26,681) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:27,217) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:27,224) Starting game number : 279
+DEB MainProcess (2021-03-12 18:28:27,224) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:27,224) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:29,111) Starting game number : 285
+DEB MainProcess (2021-03-12 18:28:29,112) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:29,112) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:29,645) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:29,653) Starting game number : 286
+DEB MainProcess (2021-03-12 18:28:29,653) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:29,653) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:36,429) Starting game number : 280
+DEB MainProcess (2021-03-12 18:28:36,429) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:36,430) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:36,988) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:28:36,994) Starting game number : 281
+DEB MainProcess (2021-03-12 18:28:36,994) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:36,994) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:38,572) Starting game number : 287
+DEB MainProcess (2021-03-12 18:28:38,572) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:38,572) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:45,785) Starting game number : 282
+DEB MainProcess (2021-03-12 18:28:45,785) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:45,785) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:47,824) Starting game number : 288
+DEB MainProcess (2021-03-12 18:28:47,824) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:47,824) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:48,010) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:28:48,018) Starting game number : 289
+DEB MainProcess (2021-03-12 18:28:48,018) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:48,018) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:48,504) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:28:48,510) Starting game number : 290
+DEB MainProcess (2021-03-12 18:28:48,510) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:48,510) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:54,897) Starting game number : 283
+DEB MainProcess (2021-03-12 18:28:54,897) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:54,897) New target same as previous one? False
+INF MainProcess (2021-03-12 18:28:57,365) Starting game number : 291
+DEB MainProcess (2021-03-12 18:28:57,365) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:28:57,365) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:03,728) Starting game number : 284
+DEB MainProcess (2021-03-12 18:29:03,728) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:03,729) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:05,769) Starting game number : 292
+DEB MainProcess (2021-03-12 18:29:05,769) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:05,770) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:05,913) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:05,919) Starting game number : 293
+DEB MainProcess (2021-03-12 18:29:05,919) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:05,920) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:12,636) Starting game number : 285
+DEB MainProcess (2021-03-12 18:29:12,637) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:12,637) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:12,837) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:12,842) Starting game number : 286
+DEB MainProcess (2021-03-12 18:29:12,843) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:12,843) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:13,392) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:29:13,398) Starting game number : 287
+DEB MainProcess (2021-03-12 18:29:13,398) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:13,398) New target same as previous one? True
+INF MainProcess (2021-03-12 18:29:13,959) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:29:13,964) Starting game number : 288
+DEB MainProcess (2021-03-12 18:29:13,964) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:13,965) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:14,408) Starting game number : 294
+DEB MainProcess (2021-03-12 18:29:14,409) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:14,409) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:14,446) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:29:14,451) Starting game number : 289
+DEB MainProcess (2021-03-12 18:29:14,452) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:14,452) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:22,976) Starting game number : 295
+DEB MainProcess (2021-03-12 18:29:22,976) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:22,976) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:23,159) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:23,168) Starting game number : 296
+DEB MainProcess (2021-03-12 18:29:23,168) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:23,169) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:23,373) Starting game number : 290
+DEB MainProcess (2021-03-12 18:29:23,373) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:23,374) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:23,689) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:29:23,697) Starting game number : 291
+DEB MainProcess (2021-03-12 18:29:23,697) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:23,697) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:23,853) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:23,861) Starting game number : 292
+DEB MainProcess (2021-03-12 18:29:23,861) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:23,862) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:23,946) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:29:23,952) Starting game number : 293
+DEB MainProcess (2021-03-12 18:29:23,952) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:23,952) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:24,499) Won! Found target in 14 steps
+INF MainProcess (2021-03-12 18:29:24,507) Starting game number : 297
+DEB MainProcess (2021-03-12 18:29:24,507) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:24,508) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:32,771) Starting game number : 294
+DEB MainProcess (2021-03-12 18:29:32,771) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:32,771) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:33,078) Starting game number : 298
+DEB MainProcess (2021-03-12 18:29:33,078) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:33,079) New target same as previous one? True
+INF MainProcess (2021-03-12 18:29:41,619) Starting game number : 295
+DEB MainProcess (2021-03-12 18:29:41,619) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:41,619) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:41,812) Starting game number : 299
+DEB MainProcess (2021-03-12 18:29:41,812) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:41,813) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:41,955) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:29:41,962) Starting game number : 296
+DEB MainProcess (2021-03-12 18:29:41,962) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:41,962) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:42,008) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:42,014) Starting game number : 300
+DEB MainProcess (2021-03-12 18:29:42,014) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:42,015) New target same as previous one? True
+INF MainProcess (2021-03-12 18:29:42,172) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:42,178) Starting game number : 301
+DEB MainProcess (2021-03-12 18:29:42,178) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:42,178) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:42,494) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:29:42,500) Starting game number : 302
+DEB MainProcess (2021-03-12 18:29:42,500) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:42,500) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:42,986) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:29:42,993) Starting game number : 303
+DEB MainProcess (2021-03-12 18:29:42,994) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:42,994) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:43,604) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:29:43,613) Starting game number : 304
+DEB MainProcess (2021-03-12 18:29:43,613) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:43,614) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:43,998) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:29:44,004) Starting game number : 305
+DEB MainProcess (2021-03-12 18:29:44,004) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:44,005) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:50,910) Starting game number : 297
+DEB MainProcess (2021-03-12 18:29:50,910) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:50,910) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:51,060) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:29:51,065) Starting game number : 298
+DEB MainProcess (2021-03-12 18:29:51,065) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:51,065) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:51,473) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:29:51,479) Starting game number : 299
+DEB MainProcess (2021-03-12 18:29:51,479) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:51,479) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:52,653) Starting game number : 306
+DEB MainProcess (2021-03-12 18:29:52,653) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:52,653) New target same as previous one? False
+INF MainProcess (2021-03-12 18:29:52,764) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:29:52,773) Starting game number : 307
+DEB MainProcess (2021-03-12 18:29:52,773) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:29:52,773) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:00,476) Starting game number : 300
+DEB MainProcess (2021-03-12 18:30:00,476) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:00,477) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:00,598) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:30:00,606) Starting game number : 301
+DEB MainProcess (2021-03-12 18:30:00,606) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:00,607) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:01,580) Starting game number : 308
+DEB MainProcess (2021-03-12 18:30:01,581) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:01,581) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:01,659) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:30:01,668) Starting game number : 309
+DEB MainProcess (2021-03-12 18:30:01,668) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:01,668) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:02,715) Won! Found target in 11 steps
+INF MainProcess (2021-03-12 18:30:02,721) Starting game number : 310
+DEB MainProcess (2021-03-12 18:30:02,721) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:02,721) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:03,011) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:03,017) Starting game number : 311
+DEB MainProcess (2021-03-12 18:30:03,017) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:03,017) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:03,397) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:03,404) Starting game number : 312
+DEB MainProcess (2021-03-12 18:30:03,404) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:03,404) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:03,488) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:30:03,496) Starting game number : 313
+DEB MainProcess (2021-03-12 18:30:03,496) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:03,496) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:03,595) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:30:03,602) Starting game number : 314
+DEB MainProcess (2021-03-12 18:30:03,602) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:03,603) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:04,119) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:30:04,125) Starting game number : 315
+DEB MainProcess (2021-03-12 18:30:04,125) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:04,125) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:04,877) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:30:04,884) Starting game number : 316
+DEB MainProcess (2021-03-12 18:30:04,884) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:04,884) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:10,020) Starting game number : 302
+DEB MainProcess (2021-03-12 18:30:10,021) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:10,021) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:13,766) Starting game number : 317
+DEB MainProcess (2021-03-12 18:30:13,766) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:13,767) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:13,936) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:30:13,943) Starting game number : 318
+DEB MainProcess (2021-03-12 18:30:13,943) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:13,944) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:14,094) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:30:14,100) Starting game number : 319
+DEB MainProcess (2021-03-12 18:30:14,100) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:14,100) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:14,705) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:30:14,712) Starting game number : 320
+DEB MainProcess (2021-03-12 18:30:14,712) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:14,713) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:15,111) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:15,119) Starting game number : 321
+DEB MainProcess (2021-03-12 18:30:15,120) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:15,120) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:15,737) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:30:15,742) Starting game number : 322
+DEB MainProcess (2021-03-12 18:30:15,743) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:15,743) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:18,707) Starting game number : 303
+DEB MainProcess (2021-03-12 18:30:18,707) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:18,707) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:19,206) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:30:19,213) Starting game number : 304
+DEB MainProcess (2021-03-12 18:30:19,214) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:19,214) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:19,459) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:30:19,466) Starting game number : 305
+DEB MainProcess (2021-03-12 18:30:19,466) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:19,466) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:24,625) Starting game number : 323
+DEB MainProcess (2021-03-12 18:30:24,625) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:24,626) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:24,793) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:30:24,799) Starting game number : 324
+DEB MainProcess (2021-03-12 18:30:24,799) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:24,800) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:28,144) Starting game number : 306
+DEB MainProcess (2021-03-12 18:30:28,144) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:28,144) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:33,604) Starting game number : 325
+DEB MainProcess (2021-03-12 18:30:33,604) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:33,604) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:36,976) Starting game number : 307
+DEB MainProcess (2021-03-12 18:30:36,976) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:36,977) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:42,739) Starting game number : 326
+DEB MainProcess (2021-03-12 18:30:42,739) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:42,739) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:48,029) Starting game number : 308
+DEB MainProcess (2021-03-12 18:30:48,029) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:48,030) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:48,937) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:30:48,946) Starting game number : 309
+DEB MainProcess (2021-03-12 18:30:48,946) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:48,946) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:49,051) Won! Found target in 1 steps
+INF MainProcess (2021-03-12 18:30:49,064) Starting game number : 310
+DEB MainProcess (2021-03-12 18:30:49,064) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:49,065) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:55,130) Starting game number : 327
+DEB MainProcess (2021-03-12 18:30:55,131) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:55,131) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:55,466) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:55,473) Starting game number : 328
+DEB MainProcess (2021-03-12 18:30:55,473) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:55,473) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:55,874) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:55,880) Starting game number : 329
+DEB MainProcess (2021-03-12 18:30:55,880) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:55,880) New target same as previous one? True
+INF MainProcess (2021-03-12 18:30:56,266) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:30:56,274) Starting game number : 330
+DEB MainProcess (2021-03-12 18:30:56,274) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:56,275) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:56,893) Won! Found target in 6 steps
+INF MainProcess (2021-03-12 18:30:56,900) Starting game number : 331
+DEB MainProcess (2021-03-12 18:30:56,900) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:56,900) New target same as previous one? False
+INF MainProcess (2021-03-12 18:30:59,937) Starting game number : 311
+DEB MainProcess (2021-03-12 18:30:59,937) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:30:59,938) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:05,856) Starting game number : 332
+DEB MainProcess (2021-03-12 18:31:05,856) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:05,856) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:06,156) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:31:06,163) Starting game number : 333
+DEB MainProcess (2021-03-12 18:31:06,163) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:06,163) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:09,097) Starting game number : 312
+DEB MainProcess (2021-03-12 18:31:09,098) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:09,098) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:09,819) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:31:09,827) Starting game number : 313
+DEB MainProcess (2021-03-12 18:31:09,827) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:09,827) New target same as previous one? True
+INF MainProcess (2021-03-12 18:31:10,453) Won! Found target in 7 steps
+INF MainProcess (2021-03-12 18:31:10,459) Starting game number : 314
+DEB MainProcess (2021-03-12 18:31:10,459) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:10,459) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:10,817) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:31:10,824) Starting game number : 315
+DEB MainProcess (2021-03-12 18:31:10,824) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:10,825) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:15,903) Starting game number : 334
+DEB MainProcess (2021-03-12 18:31:15,903) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:15,903) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:16,148) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:31:16,158) Starting game number : 335
+DEB MainProcess (2021-03-12 18:31:16,158) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:16,159) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:21,187) Starting game number : 316
+DEB MainProcess (2021-03-12 18:31:21,187) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:21,187) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:21,357) Won! Found target in 2 steps
+INF MainProcess (2021-03-12 18:31:21,364) Starting game number : 317
+DEB MainProcess (2021-03-12 18:31:21,365) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:21,365) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:25,812) Starting game number : 336
+DEB MainProcess (2021-03-12 18:31:25,812) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:25,812) New target same as previous one? False
+INF MainProcess (2021-03-12 18:31:26,214) Won! Found target in 4 steps
+INF MainProcess (2021-03-12 18:31:26,222) Starting game number : 337
+DEB MainProcess (2021-03-12 18:31:26,222) Current gate depth : 1
+DEB MainProcess (2021-03-12 18:31:26,222) New target same as previous one? False

@@ -162,7 +162,7 @@ class Game(AbstractGame):
     """
 
     def __init__(self, seed=None):
-        self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=[], rwd=100, max_steps=1000,
+        self.env = GateSynthesis(q1_gates=QB1GATES, q2_gates=[], rwd=100, max_steps=100,
                  init_uop=I, tol=1e-3)
 
 
@@ -230,7 +230,7 @@ class Game(AbstractGame):
 ###############################################################################
 class GateSynthesis:
 
-    def __init__(self, q1_gates=[], q2_gates=[], rwd=1000, max_steps=1000,
+    def __init__(self, q1_gates=[], q2_gates=[], rwd=1000, max_steps=100,
                  init_uop=I, tol=1e-5):
         self.init_unitary_op = init_uop
         self.curr_unitary_op = self.init_unitary_op
@@ -254,6 +254,7 @@ class GateSynthesis:
         # decide on the depth of the target gate
         curr_depth = (GAMES_CPT // 1000) + 1  # increase depth every 1000 games
         # generate a random unitary of desired depth
+        logger.debug(f"Current gate depth : {curr_depth}")
         target, _ = make_random_unitary(QB1GATES, [], nb_steps=curr_depth, sys_size=1)
         global PREV_UNITARY
         logger.debug(f"New target same as previous one? {np.allclose(PREV_UNITARY, target)}")
@@ -305,8 +306,8 @@ class GateSynthesis:
             raise ValueError('Unsupported gate dimension')
 
         done = self.have_winner() or (self.nb_steps > self.max_steps)
-        if done:
-            logger.info(f"Found target in {self.nb_steps} steps")
+        if done and self.have_winner():
+            logger.info(f"Won! Found target in {self.nb_steps+1} steps")
         reward = self.final_reward if self.have_winner() else 0
         self.nb_steps += 1
         return self.get_observation(), reward, done
