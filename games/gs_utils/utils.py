@@ -37,7 +37,7 @@ def get_random_qbits(nb_qb:int=1, sys_size:int=3):
 
     """
     poss_qb = list(range(sys_size))
-    print(poss_qb)
+    # print(poss_qb)
     res_qb = []
 
     for _ in range(nb_qb):

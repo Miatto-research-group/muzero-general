@@ -4,6 +4,7 @@
 logs/*
 logs/
 pyx86/
+results/*
 
 # Mac/OSX
 .DS_Store
